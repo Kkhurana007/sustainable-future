@@ -1,0 +1,69 @@
+project:
+  type: website
+  output-dir: docs
+  #post-render: _post-render.py
+  preview:
+    port: 4200
+
+
+#profile:
+  #default: english
+  #group: 
+  #  - [english, français]
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+
+website:
+  page-navigation: true
+  title: "Homepage"
+  #site-url: "https://ilovesoils.com"
+  #google-analytics: "G-YSR47ZM5Y0"
+  page-footer:
+    left: "Website made with [Quarto](https://quarto.org/) by [Kunal](https://ilovesoils.com/about.html)."
+    right:
+      #- icon: English
+        #href: https://github.com/Kkhurana007
+      #- icon: French
+        #href: https://twitter.com/kunalkhurana007
+      - icon: envelope
+        href: mailto:info@ilovesoils.com
+
+
+  search:
+    location: navbar
+    type: overlay
+    
+  navbar:
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "Our Services"
+        href: services.qmd        
+      - text: "Why Choose us?"
+        href: choose.qmd
+      #- text: "Careers"
+        #href: careers.qmd
+      - text: "Interactive maps"
+        href: maps.qmd
+      - text: "Contact Us"
+        href: contact.qmd
+    #right: 
+      #- href: https://beaeju.com.br/index.html
+        #text: English
+      #- href: https://beaeju.com.br/en/index.html
+        #text: Français
+
+
+
+editor: visual
+
+
+execute:
+  freeze: true
+  #increment: true
+

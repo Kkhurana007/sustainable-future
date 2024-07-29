@@ -1,0 +1,77 @@
+
+# Contact Us
+
+Ready to take your agricultural business to the next level? Contact us today for a consultation and discover how we can help you achieve optimal resuts.
+
+
+## Sustainable Future - Empowering Farmers with Data-Driven Solutions.
+
+
+
+
+# Message Board 
+
+<div id="message-board" class="grid"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+<script>
+async function fetchCSVData(url) {
+    const response = await fetch(url);
+    const text = await response.text();
+    
+    const results = Papa.parse(text, {
+        header: false,
+        skipEmptyLines: true,
+        dynamicTyping: false,
+    });
+
+    const data = results.data.slice(1).map(row => {
+        return {
+            username: row[1].trim(),
+            message: row[3].trim(),
+        };
+    });
+
+    return data;
+}
+
+function createMessageElement(messageData) {
+    const messageElement = document.createElement('div');
+    
+    messageElement.classList.add('g-col-12');
+    messageElement.classList.add('g-col-md-6');
+    
+    const innerDiv = document.createElement('div');
+    innerDiv.classList.add('message');
+    messageElement.appendChild(innerDiv);
+
+    const usernameElement = document.createElement('strong');
+    usernameElement.classList.add('username');
+    usernameElement.textContent = messageData.username;
+    innerDiv.appendChild(usernameElement);
+
+    const messageContentElement = document.createElement('p');
+    messageContentElement.textContent = messageData.message;
+    innerDiv.appendChild(messageContentElement);
+
+    return messageElement;
+}
+
+async function initMessageBoard() {
+    #const csvUrl = 'your-csv-file-url';
+    const messages = await fetchCSVData(csvUrl);
+
+    const messageBoard = document.getElementById('message-board');
+    messages.forEach(message => {
+        const messageElement = createMessageElement(message);
+        messageBoard.appendChild(messageElement);
+    });
+}
+
+initMessageBoard();
+</script>
+
+## Send a message to us!
+
+<iframe src="https://docs.google.com/forms/d/1BgWVagc-bZxh9C4icNHpy9TTqVvZnRch0_Bw99FClhk/edit" width="100%" height="924" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
