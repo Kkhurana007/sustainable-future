@@ -1,0 +1,27 @@
+lang: fr
+
+project: 
+  title: "l'avenir durable"
+  type: website
+  output-dir: docs/fr
+
+website:
+  navbar:
+    left:
+      - text: "À propos"
+        href: about.qmd
+      - text: "Nos Services"
+        href: services.qmd        
+      - text: "Pourquoi nous choisir?"
+        href: choose.qmd
+      #- text: "Careers"
+        #href: careers.qmd
+      - text: "Cartes Interactifs"
+        href: maps.qmd
+      - text: "Nous Contacter"
+        href: contact.qmd
+    right:
+      - href: https://sustainable-future.ca/index.html
+        text: English
+      - href: https://sustainable-future.ca/fr/index.html
+        text: Français 

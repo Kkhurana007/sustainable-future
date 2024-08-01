@@ -1,0 +1,55 @@
+lang: en
+
+project: 
+  title: "Sustianable Future"
+  type: website
+  output-dir: docs
+
+
+website:
+  page-navigation: true
+  title: "Homepage"
+  site-url: "https://sustainable-future.ca/"
+  page-footer:
+    left: "Website made with [Quarto](https://quarto.org/) by [Kunal](https://ilovesoils.com/about.html)."
+    right:
+      - text: English
+        href: https://sustainable-future.ca/index.html
+      - text: Français
+        href: https://sustainable-future.ca/fr/index.html
+      - icon: envelope
+        href: mailto:info@ilovesoils.com
+
+
+  search:
+    location: navbar
+    type: overlay
+    
+  navbar:
+    left:
+      - text: "About"
+        href: about.qmd
+      - text: "Our Services"
+        href: services.qmd        
+      - text: "Why Choose us?"
+        href: choose.qmd
+      #- text: "Careers"
+        #href: careers.qmd
+      - text: "Interactive maps"
+        href: maps.qmd
+      - text: "Contact Us"
+        href: contact.qmd
+    right:
+      - href: https://sustainable-future.ca/index.html
+        text: English
+      - href: https://sustainable-future.ca/fr/index.html
+        text: Français 
+
+
+
+editor: visual
+
+
+execute:
+  freeze: true
+  #increment: true
