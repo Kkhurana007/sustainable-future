@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sustainable-future.ca/servicesfr.html</loc>
-    <lastmod>2024-07-29T23:09:10.260Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sustainable-future.ca/proposfr.html</loc>
-    <lastmod>2024-07-29T23:42:04.115Z</lastmod>
+    <loc>https://sustainable-future.ca/services.html</loc>
+    <lastmod>2024-08-04T17:20:12.989Z</lastmod>
   </url>
   <url>
     <loc>https://sustainable-future.ca/index.html</loc>
-    <lastmod>2024-08-04T16:31:10.870Z</lastmod>
+    <lastmod>2024-08-04T18:20:16.717Z</lastmod>
   </url>
   <url>
     <loc>https://sustainable-future.ca/choose.html</loc>
-    <lastmod>2024-07-29T23:09:10.189Z</lastmod>
+    <lastmod>2024-08-04T19:54:20.361Z</lastmod>
   </url>
   <url>
     <loc>https://sustainable-future.ca/about.html</loc>
@@ -27,9 +23,5 @@
   <url>
     <loc>https://sustainable-future.ca/maps.html</loc>
     <lastmod>2024-07-29T23:09:10.257Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sustainable-future.ca/services.html</loc>
-    <lastmod>2024-08-04T16:40:31.855Z</lastmod>
   </url>
 </urlset>
