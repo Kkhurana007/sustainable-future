@@ -1,8 +1,63 @@
 ---
-title: "Why Choose Us?"
+#title: "Why Choose Us?"
 ---
 
+::: {.content-visible when-profile="english"}
 
+# Why choose us? 
 
-Data-Driven Insights
+## Data-Driven Insights 
+
+![](images\broad_sense.png){.nolightbox fig-align="center" style="margin-top: 0 px;"}
+
 We harness the power of data science and machine learning to provide accurate predictions and personalized recommendations, helping you stay ahead of the curve.
+
+## Deep Resolution Imagery to Enable Data-Driven Decisions
+Integrating deep resolution imagery in decision-making processes enhances the precision and reliability of data-driven decisions. We harness advanced imaging technologies that provide detailed visual data, empowering analysts to extract actionable insights and improve outcomes in sustianable sectors such as agriculture and environmental monitoring.
+
+## Land Use Planning
+Deep resolution imagery plays a crucial role in land use planning by providing detailed and accurate maps. Farmers can analyze soil features, topography, and crop history in their mobile devices through live dashboards integration to make informed decisions about the type and kind of crop, market demand and resource management. This leads to sustainable development and efficient use of resources in hand.
+
+## Pest and Disease Management
+High-resolution images help in early detection and management of pests and diseases in crops. By identifying affected areas with precision, farmers can apply targeted treatments, reducing the use of chemicals and minimizing crop loss. This proactive approach ensures healthier crops and improves overall yield.
+
+## Precision Farming
+
+![](images\crop_water_soil_livestock.png){.nolightbox fig-align="center" style="margin-top: 0 px;"}
+Precision farming benefits significantly from deep resolution imagery. It enables farmers to monitor soil conditions, crop health, and irrigation needs with high accuracy. By applying inputs like water, fertilizers, and pesticides only where needed, farmers can optimize resource use, enhance crop productivity, and reduce environmental impact.
+
+## Yield Prediction and Forecasting
+
+![](images\yield_estimation.webp){.nolightbox fig-align="center" style="margin-top: 0 px;"}
+
+Accurate yield prediction and forecasting are vital for planning and market strategies. High-resolution imagery provides detailed data on crop growth stages and health, allowing for better prediction models. This helps farmers and stakeholders anticipate market supply, manage inventories, and plan distribution efficiently.
+
+## Crop Monitoring
+
+
+Continuous crop monitoring is essential for maintaining crop health and ensuring optimal growth. Deep resolution imagery allows for real-time monitoring of crop conditions, detecting issues like nutrient deficiencies, water stress, and disease outbreaks promptly. This timely intervention helps in maintaining high crop quality and maximizing yields.
+
+:::
+
+::: {.content-visible when-profile="french"}
+
+
+## Imagerie à Haute Résolution pour Permettre des Décisions Basées sur les Données
+L'intégration de l'imagerie à haute résolution dans les processus de prise de décision améliore la précision et la fiabilité des décisions basées sur les données. Les technologies d'imagerie avancées fournissent des données visuelles détaillées, permettant aux analystes d'extraire des informations exploitables et d'améliorer les résultats dans divers secteurs tels que l'agriculture, l'aménagement urbain et la surveillance environnementale.
+
+## Aménagement du Territoire
+L'imagerie à haute résolution joue un rôle crucial dans l'aménagement du territoire en fournissant des cartes détaillées et précises. Les planificateurs peuvent analyser les caractéristiques du terrain, la topographie et les infrastructures pour prendre des décisions éclairées sur le zonage, le développement urbain et la gestion des ressources. Cela conduit à un développement durable et à une utilisation efficace des ressources foncières.
+
+## Gestion des Ravageurs et des Maladies
+Les images à haute résolution aident à la détection précoce et à la gestion des ravageurs et des maladies dans les cultures. En identifiant avec précision les zones affectées, les agriculteurs peuvent appliquer des traitements ciblés, réduisant l'utilisation de produits chimiques et minimisant les pertes de récolte. Cette approche proactive garantit des cultures plus saines et améliore le rendement global.
+
+## Agriculture de Précision
+L'agriculture de précision bénéficie grandement de l'imagerie à haute résolution. Elle permet aux agriculteurs de surveiller avec précision les conditions du sol, la santé des cultures et les besoins en irrigation. En appliquant les intrants tels que l'eau, les engrais et les pesticides uniquement là où c'est nécessaire, les agriculteurs peuvent optimiser l'utilisation des ressources, améliorer la productivité des cultures et réduire l'impact environnemental.
+
+## Prévision et Anticipation des Rendements
+Des prévisions et des anticipations de rendement précises sont essentielles pour la planification et les stratégies de marché. L'imagerie à haute résolution fournit des données détaillées sur les stades de croissance et la santé des cultures, permettant de meilleurs modèles de prévision. Cela aide les agriculteurs et les parties prenantes à anticiper l'offre du marché, à gérer les stocks et à planifier efficacement la distribution.
+
+## Surveillance des Cultures
+La surveillance continue des cultures est essentielle pour maintenir la santé des cultures et assurer une croissance optimale. L'imagerie à haute résolution permet de surveiller en temps réel les conditions des cultures, détectant rapidement des problèmes tels que les carences en nutriments, le stress hydrique et les épidémies de maladies. Cette intervention rapide aide à maintenir une haute qualité des cultures et à maximiser les rendements.
+
+:::

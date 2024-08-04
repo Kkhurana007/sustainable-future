@@ -1,19 +1,18 @@
 project:
   type: website
-  output-dir: docs
-  #post-render: _post-render.py
+  post-render: _post-render.R
   preview:
     port: 4200
 
 
-#profile:
-  #default: english
-  #group: 
-  #  - [english, français]
+profile:
+  default: english
+  group: 
+    - [english, french]
 
-metadata-files: 
-  - _quarto-french.yml
-  - _quarto-english.yml
+#metadata-files: 
+  #- _quarto-french.yml
+  #- _quarto-english.yml
 
 format:
   html:
@@ -21,3 +20,4 @@ format:
     css: styles.css
     toc: true
 
+editor: visual

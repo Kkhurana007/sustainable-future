@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Us"
 ---
 
 
@@ -7,7 +7,37 @@ title: "About"
 
 ![](images\company's_logo.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
 
+::: {.content-visible when-profile="english"}
 
-At Sustainabale Future, we specialize in providing comprehensive crop insurance and diversification solutions tailored to the unique needs of farmers and agricultural businesses. Leveraging the power of data science, machine learning, and predictive models, we offer insights and strategies to enhance crop production and agronomy, ensuring you make informed decisions that maximize yield and profitability.
 
+## Our Mission
+At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being.
+
+## Our Team
+Our team comprises seasoned agronomists, agricultural scientists, data analysts, and technology experts who bring a wealth of knowledge and experience to the table. United by a common passion for sustainable agriculture, we work collaboratively to deliver personalized and effective solutions for our clients. Our multidisciplinary approach ensures that we address every aspect of your agricultural needs with precision and expertise.
+
+## Our Values
+1. **Sustainability**: We are committed to promoting farming practices that are environmentally sustainable, economically viable, and socially responsible.
+2. **Innovation**: We leverage cutting-edge technology and scientific advancements to provide forward-thinking solutions that drive agricultural success.
+3. **Integrity**: We conduct our business with the highest standards of ethics, transparency, and honesty, ensuring trust and reliability in all our interactions.
+4. **Collaboration**: We believe in the power of teamwork and partnerships, working closely with our clients and stakeholders to achieve shared goals.
+5. **Excellence**: We strive for excellence in everything we do, from our services and solutions to our customer support, ensuring the highest quality outcomes for our clients.
+:::
+
+::: {.content-visible when-profile="french"}
+
+## Notre Mission
+Chez Sustainable Future, notre mission est d'autonomiser les agriculteurs et les entreprises agricoles avec des solutions innovantes et basées sur les données qui améliorent la productivité, la résilience et la rentabilité. Nous nous engageons à promouvoir des pratiques agricoles durables qui non seulement assurent la sécurité alimentaire, mais contribuent également à la conservation de l'environnement et au bien-être des communautés.
+
+## Notre Équipe
+Notre équipe est composée d'agronomes expérimentés, de scientifiques agricoles, d'analystes de données et d'experts en technologie qui apportent une richesse de connaissances et d'expérience. Unis par une passion commune pour l'agriculture durable, nous travaillons en collaboration pour offrir des solutions personnalisées et efficaces à nos clients. Notre approche multidisciplinaire garantit que nous abordons chaque aspect de vos besoins agricoles avec précision et expertise.
+
+## Nos Valeurs
+1. **Durabilité** : Nous nous engageons à promouvoir des pratiques agricoles qui sont respectueuses de l'environnement, économiquement viables et socialement responsables.
+2. **Innovation** : Nous utilisons des technologies de pointe et les avancées scientifiques pour fournir des solutions avant-gardistes qui favorisent le succès agricole.
+3. **Intégrité** : Nous menons nos affaires avec les normes les plus élevées d'éthique, de transparence et d'honnêteté, garantissant la confiance et la fiabilité dans toutes nos interactions.
+4. **Collaboration** : Nous croyons en la puissance du travail d'équipe et des partenariats, travaillant en étroite collaboration avec nos clients et parties prenantes pour atteindre des objectifs communs.
+5. **Excellence** : Nous visons l'excellence dans tout ce que nous faisons, de nos services et solutions à notre support client, garantissant des résultats de la plus haute qualité pour nos clients.
+
+:::
 

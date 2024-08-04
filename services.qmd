@@ -1,3 +1,10 @@
+---
+#title: "Our Services"
+---
+
+::: {.content-visible when-profile="english"}
+
+
 # Our Services
 
 ## Crop Insurance
@@ -24,3 +31,36 @@ Our team of seasoned agronomists and agricultural scientists is dedicated to pro
 
 ## Comprehensive Coverage
 From crop insurance to forest care, we offer a wide range of services designed to support every aspect of your agricultural operation.
+
+:::
+
+::: {.content-visible when-profile="french"}
+
+# Nos Services
+
+## Assurance Récolte
+Protégez votre investissement avec nos plans d'assurance-récolte sur mesure. Nous analysons les données historiques et les modèles prédictifs pour offrir une couverture qui répond le mieux à vos besoins, en minimisant les risques associés aux conditions météorologiques imprévisibles et aux fluctuations du marché.
+
+## Diversification des Cultures
+Optimisez le potentiel de votre exploitation en diversifiant vos cultures. Notre approche basée sur les données vous aide à sélectionner les meilleures cultures pour votre sol et votre climat, améliorant ainsi la résilience et la rentabilité.
+
+## Consultation en Agronomie
+Nos agronomes experts fournissent des conseils personnalisés sur la santé des sols, la nutrition des cultures et la gestion des parasites. Nous utilisons des technologies de pointe pour assurer que vos cultures reçoivent les bons nutriments au bon moment.
+
+## Diversification des Semences
+Choisissez les bonnes semences pour vos besoins spécifiques. Nous offrons des conseils sur la sélection des semences en fonction de votre type de sol, des conditions climatiques et de la demande du marché, garantissant des cultures robustes et rentables.
+
+## Gestion Forestière
+Gérez de manière durable vos terres forestières avec nos services de gestion forestière. Nous fournissons des stratégies pour maintenir des forêts saines, prévenir les maladies et maximiser la production de bois.
+
+## Solutions pour Sites Contaminés
+Traitez et assainissez les sites contaminés grâce à notre expertise. Nous proposons des solutions pour gérer la contamination des sols, assurant une utilisation des terres sûre et productive.
+
+## Consultation d'Experts
+Notre équipe d'agronomes et de scientifiques agricoles chevronnés est dédiée à fournir les meilleurs conseils et solutions pour vos besoins agricoles.
+
+## Couverture Complète
+De l'assurance-récolte à la gestion forestière, nous offrons une large gamme de services conçus pour soutenir chaque aspect de votre exploitation agricole.
+
+:::
+

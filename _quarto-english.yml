@@ -3,7 +3,7 @@ lang: en
 project: 
   title: "Sustianable Future"
   type: website
-  output-dir: docs
+  output-dir: docs_2
 
 
 website:
@@ -12,6 +12,7 @@ website:
   site-url: "https://sustainable-future.ca/"
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/) by [Kunal](https://ilovesoils.com/about.html)."
+
     right:
       - text: English
         href: https://sustainable-future.ca/index.html
@@ -19,33 +20,36 @@ website:
         href: https://sustainable-future.ca/fr/index.html
       - icon: envelope
         href: mailto:info@ilovesoils.com
+      - text: "@2024 Sustainable Future. All rights reserved."
 
 
-  search:
-    location: navbar
-    type: overlay
+  #search:
+    #location: navbar
+    #type: overlay
     
   navbar:
     left:
-      - text: "About"
+      - text: "About Us"
         href: about.qmd
       - text: "Our Services"
-        href: services.qmd        
+        href: services.qmd
+      - text: "Careers"
+        href: careers.qmd        
       - text: "Why Choose us?"
         href: choose.qmd
-      #- text: "Careers"
-        #href: careers.qmd
-      - text: "Interactive maps"
-        href: maps.qmd
       - text: "Contact Us"
-        href: contact.qmd
+        href: contact2.qmd
     right:
       - href: https://sustainable-future.ca/index.html
         text: English
       - href: https://sustainable-future.ca/fr/index.html
         text: Français 
 
-
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
 
 editor: visual
 
