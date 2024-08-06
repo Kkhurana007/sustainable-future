@@ -91,46 +91,53 @@
     "text": "Visit our office at the location below:"
   },
   {
+    "objectID": "choose.html",
+    "href": "choose.html",
+    "title": "Pourquoi nous choisir?",
+    "section": "",
+    "text": "L’intégration de l’imagerie à haute résolution dans les processus de prise de décision améliore la précision et la fiabilité des décisions basées sur les données. Les technologies d’imagerie avancées fournissent des données visuelles détaillées, permettant aux analystes d’extraire des informations exploitables et d’améliorer les résultats dans divers secteurs tels que l’agriculture, l’aménagement urbain et la surveillance environnementale.\n\n\n\nL’imagerie à haute résolution joue un rôle crucial dans l’aménagement du territoire en fournissant des cartes détaillées et précises. Les planificateurs peuvent analyser les caractéristiques du terrain, la topographie et les infrastructures pour prendre des décisions éclairées sur le zonage, le développement urbain et la gestion des ressources. Cela conduit à un développement durable et à une utilisation efficace des ressources foncières.\n\n\n\nLes images à haute résolution aident à la détection précoce et à la gestion des ravageurs et des maladies dans les cultures. En identifiant avec précision les zones affectées, les agriculteurs peuvent appliquer des traitements ciblés, réduisant l’utilisation de produits chimiques et minimisant les pertes de récolte. Cette approche proactive garantit des cultures plus saines et améliore le rendement global.\n\n\n\n\n\n\n\n\nL’agriculture de précision bénéficie grandement de l’imagerie à haute résolution. Elle permet aux agriculteurs de surveiller avec précision les conditions du sol, la santé des cultures et les besoins en irrigation. En appliquant les intrants tels que l’eau, les engrais et les pesticides uniquement là où c’est nécessaire, les agriculteurs peuvent optimiser l’utilisation des ressources, améliorer la productivité des cultures et réduire l’impact environnemental.\n\n\n\nDes prévisions et des anticipations de rendement précises sont essentielles pour la planification et les stratégies de marché. L’imagerie à haute résolution fournit des données détaillées sur les stades de croissance et la santé des cultures, permettant de meilleurs modèles de prévision. Cela aide les agriculteurs et les parties prenantes à anticiper l’offre du marché, à gérer les stocks et à planifier efficacement la distribution.\n\n\n\n La surveillance continue des cultures est essentielle pour maintenir la santé des cultures et assurer une croissance optimale. L’imagerie à haute résolution permet de surveiller en temps réel les conditions des cultures, détectant rapidement des problèmes tels que les carences en nutriments, le stress hydrique et les épidémies de maladies. Cette intervention rapide aide à maintenir une haute qualité des cultures et à maximiser les rendements."
+  },
+  {
     "objectID": "choose.html#imagerie-à-haute-résolution-pour-permettre-des-décisions-basées-sur-les-données",
     "href": "choose.html#imagerie-à-haute-résolution-pour-permettre-des-décisions-basées-sur-les-données",
-    "title": "Accueil",
-    "section": "Imagerie à Haute Résolution pour Permettre des Décisions Basées sur les Données",
-    "text": "Imagerie à Haute Résolution pour Permettre des Décisions Basées sur les Données\nL’intégration de l’imagerie à haute résolution dans les processus de prise de décision améliore la précision et la fiabilité des décisions basées sur les données. Les technologies d’imagerie avancées fournissent des données visuelles détaillées, permettant aux analystes d’extraire des informations exploitables et d’améliorer les résultats dans divers secteurs tels que l’agriculture, l’aménagement urbain et la surveillance environnementale."
+    "title": "Pourquoi nous choisir?",
+    "section": "",
+    "text": "L’intégration de l’imagerie à haute résolution dans les processus de prise de décision améliore la précision et la fiabilité des décisions basées sur les données. Les technologies d’imagerie avancées fournissent des données visuelles détaillées, permettant aux analystes d’extraire des informations exploitables et d’améliorer les résultats dans divers secteurs tels que l’agriculture, l’aménagement urbain et la surveillance environnementale."
   },
   {
     "objectID": "choose.html#aménagement-du-territoire",
     "href": "choose.html#aménagement-du-territoire",
-    "title": "Accueil",
-    "section": "Aménagement du Territoire",
-    "text": "Aménagement du Territoire\nL’imagerie à haute résolution joue un rôle crucial dans l’aménagement du territoire en fournissant des cartes détaillées et précises. Les planificateurs peuvent analyser les caractéristiques du terrain, la topographie et les infrastructures pour prendre des décisions éclairées sur le zonage, le développement urbain et la gestion des ressources. Cela conduit à un développement durable et à une utilisation efficace des ressources foncières."
+    "title": "Pourquoi nous choisir?",
+    "section": "",
+    "text": "L’imagerie à haute résolution joue un rôle crucial dans l’aménagement du territoire en fournissant des cartes détaillées et précises. Les planificateurs peuvent analyser les caractéristiques du terrain, la topographie et les infrastructures pour prendre des décisions éclairées sur le zonage, le développement urbain et la gestion des ressources. Cela conduit à un développement durable et à une utilisation efficace des ressources foncières."
   },
   {
     "objectID": "choose.html#gestion-des-ravageurs-et-des-maladies",
     "href": "choose.html#gestion-des-ravageurs-et-des-maladies",
-    "title": "Accueil",
-    "section": "Gestion des Ravageurs et des Maladies",
-    "text": "Gestion des Ravageurs et des Maladies\nLes images à haute résolution aident à la détection précoce et à la gestion des ravageurs et des maladies dans les cultures. En identifiant avec précision les zones affectées, les agriculteurs peuvent appliquer des traitements ciblés, réduisant l’utilisation de produits chimiques et minimisant les pertes de récolte. Cette approche proactive garantit des cultures plus saines et améliore le rendement global."
+    "title": "Pourquoi nous choisir?",
+    "section": "",
+    "text": "Les images à haute résolution aident à la détection précoce et à la gestion des ravageurs et des maladies dans les cultures. En identifiant avec précision les zones affectées, les agriculteurs peuvent appliquer des traitements ciblés, réduisant l’utilisation de produits chimiques et minimisant les pertes de récolte. Cette approche proactive garantit des cultures plus saines et améliore le rendement global."
   },
   {
     "objectID": "choose.html#agriculture-de-précision",
     "href": "choose.html#agriculture-de-précision",
-    "title": "Accueil",
-    "section": "Agriculture de Précision",
-    "text": "Agriculture de Précision\n\n\n\n\n\nL’agriculture de précision bénéficie grandement de l’imagerie à haute résolution. Elle permet aux agriculteurs de surveiller avec précision les conditions du sol, la santé des cultures et les besoins en irrigation. En appliquant les intrants tels que l’eau, les engrais et les pesticides uniquement là où c’est nécessaire, les agriculteurs peuvent optimiser l’utilisation des ressources, améliorer la productivité des cultures et réduire l’impact environnemental."
+    "title": "Pourquoi nous choisir?",
+    "section": "",
+    "text": "L’agriculture de précision bénéficie grandement de l’imagerie à haute résolution. Elle permet aux agriculteurs de surveiller avec précision les conditions du sol, la santé des cultures et les besoins en irrigation. En appliquant les intrants tels que l’eau, les engrais et les pesticides uniquement là où c’est nécessaire, les agriculteurs peuvent optimiser l’utilisation des ressources, améliorer la productivité des cultures et réduire l’impact environnemental."
   },
   {
     "objectID": "choose.html#prévision-et-anticipation-des-rendements",
     "href": "choose.html#prévision-et-anticipation-des-rendements",
-    "title": "Accueil",
-    "section": "Prévision et Anticipation des Rendements",
-    "text": "Prévision et Anticipation des Rendements\nDes prévisions et des anticipations de rendement précises sont essentielles pour la planification et les stratégies de marché. L’imagerie à haute résolution fournit des données détaillées sur les stades de croissance et la santé des cultures, permettant de meilleurs modèles de prévision. Cela aide les agriculteurs et les parties prenantes à anticiper l’offre du marché, à gérer les stocks et à planifier efficacement la distribution."
+    "title": "Pourquoi nous choisir?",
+    "section": "",
+    "text": "Des prévisions et des anticipations de rendement précises sont essentielles pour la planification et les stratégies de marché. L’imagerie à haute résolution fournit des données détaillées sur les stades de croissance et la santé des cultures, permettant de meilleurs modèles de prévision. Cela aide les agriculteurs et les parties prenantes à anticiper l’offre du marché, à gérer les stocks et à planifier efficacement la distribution."
   },
   {
     "objectID": "choose.html#surveillance-des-cultures",
     "href": "choose.html#surveillance-des-cultures",
-    "title": "Accueil",
-    "section": "Surveillance des Cultures",
-    "text": "Surveillance des Cultures\n La surveillance continue des cultures est essentielle pour maintenir la santé des cultures et assurer une croissance optimale. L’imagerie à haute résolution permet de surveiller en temps réel les conditions des cultures, détectant rapidement des problèmes tels que les carences en nutriments, le stress hydrique et les épidémies de maladies. Cette intervention rapide aide à maintenir une haute qualité des cultures et à maximiser les rendements."
+    "title": "Pourquoi nous choisir?",
+    "section": "",
+    "text": "La surveillance continue des cultures est essentielle pour maintenir la santé des cultures et assurer une croissance optimale. L’imagerie à haute résolution permet de surveiller en temps réel les conditions des cultures, détectant rapidement des problèmes tels que les carences en nutriments, le stress hydrique et les épidémies de maladies. Cette intervention rapide aide à maintenir une haute qualité des cultures et à maximiser les rendements."
   },
   {
     "objectID": "about.html",
