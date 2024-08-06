@@ -1,11 +1,25 @@
 lang: fr
 
 project: 
-  title: "L'avenir durable"
+  title: "l'avenir durable"
   type: website
   output-dir: docs_2/fr
 
 website:
+  page-navigation: true
+  title: "Accueil"
+  site-url: "https://sustainable-future.ca/"
+  page-footer:
+    left: "Cite web créer avec [Quarto](https://quarto.org/) par [Kunal](https://ilovesoils.com/about.html)."
+
+    right:
+      - text: English
+        href: https://sustainable-future.ca/index.html
+      - text: Français
+        href: https://sustainable-future.ca/fr/index.html
+      - icon: envelope
+        href: mailto:info@ilovesoils.com
+      - text: "@2024 Sustainable Future. All rights reserved."
   navbar:
     left:
       - text: "À propos"
@@ -21,12 +35,3 @@ website:
         text: English
       - href: https://sustainable-future.ca/fr/index.html
         text: Français 
-
-format:
-  html:
-    theme: journal
-    css: styles.css
-    toc: true
-
-
-editor: visual

@@ -77,8 +77,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#contact-us" id="toc-contact-us" class="nav-link active" data-scroll-target="#contact-us">Contact Us</a>
+  <ul class="collapse">
+  <li><a href="#sustainable-future---empowering-farmers-with-data-driven-solutions." id="toc-sustainable-future---empowering-farmers-with-data-driven-solutions." class="nav-link" data-scroll-target="#sustainable-future---empowering-farmers-with-data-driven-solutions.">Sustainable Future - Empowering Farmers with Data-Driven Solutions.</a></li>
+  </ul></li>
+  <li><a href="#message-board" id="toc-message-board" class="nav-link" data-scroll-target="#message-board">Message Board</a>
+  <ul class="collapse">
+  <li><a href="#send-a-message-to-us" id="toc-send-a-message-to-us" class="nav-link" data-scroll-target="#send-a-message-to-us">Send a message to us!</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -86,8 +99,84 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<section id="contact-us" class="level1">
+<h1>Contact Us</h1>
+<p>Ready to take your agricultural business to the next level? Contact us today for a consultation and discover how we can help you achieve optimal resuts.</p>
+<section id="sustainable-future---empowering-farmers-with-data-driven-solutions." class="level2">
+<h2 class="anchored" data-anchor-id="sustainable-future---empowering-farmers-with-data-driven-solutions.">Sustainable Future - Empowering Farmers with Data-Driven Solutions.</h2>
+</section>
+</section>
+<section id="message-board" class="level1">
+<h1>Message Board</h1>
+<div id="message-board" class="grid">
+
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<script>
+async function fetchCSVData(url) {
+    const response = await fetch(url);
+    const text = await response.text();
+    
+    const results = Papa.parse(text, {
+        header: false,
+        skipEmptyLines: true,
+        dynamicTyping: false,
+    });
+
+    const data = results.data.slice(1).map(row => {
+        return {
+            username: row[1].trim(),
+            message: row[3].trim(),
+        };
+    });
+
+    return data;
+}
+
+function createMessageElement(messageData) {
+    const messageElement = document.createElement('div');
+    
+    messageElement.classList.add('g-col-12');
+    messageElement.classList.add('g-col-md-6');
+    
+    const innerDiv = document.createElement('div');
+    innerDiv.classList.add('message');
+    messageElement.appendChild(innerDiv);
+
+    const usernameElement = document.createElement('strong');
+    usernameElement.classList.add('username');
+    usernameElement.textContent = messageData.username;
+    innerDiv.appendChild(usernameElement);
+
+    const messageContentElement = document.createElement('p');
+    messageContentElement.textContent = messageData.message;
+    innerDiv.appendChild(messageContentElement);
+
+    return messageElement;
+}
+
+async function initMessageBoard() {
+    #const csvUrl = 'your-csv-file-url';
+    const messages = await fetchCSVData(csvUrl);
+
+    const messageBoard = document.getElementById('message-board');
+    messages.forEach(message => {
+        const messageElement = createMessageElement(message);
+        messageBoard.appendChild(messageElement);
+    });
+}
+
+initMessageBoard();
+</script>
+<section id="send-a-message-to-us" class="level2">
+<h2 class="anchored" data-anchor-id="send-a-message-to-us">Send a message to us!</h2>
+<iframe src="https://docs.google.com/forms/d/1BgWVagc-bZxh9C4icNHpy9TTqVvZnRch0_Bw99FClhk/edit" width="100%" height="924" frameborder="0" marginheight="0" marginwidth="0">
+Loading…
+</iframe>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
