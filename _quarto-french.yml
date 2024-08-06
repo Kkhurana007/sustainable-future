@@ -3,7 +3,7 @@ lang: fr
 project: 
   title: "l'avenir durable"
   type: website
-  output-dir: docs_2/fr
+  output-dir: docs/fr
 
 website:
   page-navigation: true
@@ -25,7 +25,9 @@ website:
       - text: "À propos"
         href: about.qmd
       - text: "Nos Services"
-        href: services.qmd        
+        href: services.qmd 
+      - text: "Emplois"
+        href: careers.qmd       
       - text: "Pourquoi nous choisir?"
         href: choose.qmd
       - text: "Nous Contacter"

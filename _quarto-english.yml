@@ -3,7 +3,7 @@ lang: en
 project: 
   title: "Sustianable Future"
   type: website
-  output-dir: docs_2
+  output-dir: docs
 
 
 website:
@@ -42,7 +42,7 @@ website:
     right:
       - href: https://sustainable-future.ca/index.html
         text: English
-      - href: https://sustainable-future.ca/fr/index.html
+      - href: /fr/index.html
         text: Français 
 
 format:

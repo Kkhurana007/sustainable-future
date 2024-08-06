@@ -1,14 +1,18 @@
 ---
-title: Job openings
+# title: Job openings
 ---
 
 ::: { .content-visible when-profile="english"}
+
+# Job openings
 
 1. We're looking for a data scientist to be a part of our team. For a detailed job description, please [refer](https://www.jobbank.gc.ca/jobsearch/jobposting/41553178;jsessionid=497FD5225435A344290BC23393FAB3CB.jobsearch77?source=searchresults) to the job bank.  
 
 :::
 
 ::: { .content-visible when-profile="french"}
+
+# Offres d'emploi
 
 1. Nous recherchons un.e Scientifique de donées pour rejoindre notre équipe. Pour une description détaillée du poste, veuillez vous [référer](https://www.guichetemplois.gc.ca/rechercheemplois/offredemploi/41553178?source=searchresults) au guichet-emplois.
 

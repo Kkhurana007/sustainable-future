@@ -41,6 +41,8 @@ Continuous crop monitoring is essential for maintaining crop health and ensuring
 
 ::: {.content-visible when-profile="french"}
 
+![](images\broad_sense.png){.nolightbox fig-align="center" style="margin-top: 0 px;"}
+
 
 ## Imagerie à Haute Résolution pour Permettre des Décisions Basées sur les Données
 L'intégration de l'imagerie à haute résolution dans les processus de prise de décision améliore la précision et la fiabilité des décisions basées sur les données. Les technologies d'imagerie avancées fournissent des données visuelles détaillées, permettant aux analystes d'extraire des informations exploitables et d'améliorer les résultats dans divers secteurs tels que l'agriculture, l'aménagement urbain et la surveillance environnementale.
@@ -52,12 +54,18 @@ L'imagerie à haute résolution joue un rôle crucial dans l'aménagement du ter
 Les images à haute résolution aident à la détection précoce et à la gestion des ravageurs et des maladies dans les cultures. En identifiant avec précision les zones affectées, les agriculteurs peuvent appliquer des traitements ciblés, réduisant l'utilisation de produits chimiques et minimisant les pertes de récolte. Cette approche proactive garantit des cultures plus saines et améliore le rendement global.
 
 ## Agriculture de Précision
+
+![](images\crop_water_soil_livestock.png){.nolightbox fig-align="center" style="margin-top: 0 px;"}
+
+
 L'agriculture de précision bénéficie grandement de l'imagerie à haute résolution. Elle permet aux agriculteurs de surveiller avec précision les conditions du sol, la santé des cultures et les besoins en irrigation. En appliquant les intrants tels que l'eau, les engrais et les pesticides uniquement là où c'est nécessaire, les agriculteurs peuvent optimiser l'utilisation des ressources, améliorer la productivité des cultures et réduire l'impact environnemental.
 
 ## Prévision et Anticipation des Rendements
 Des prévisions et des anticipations de rendement précises sont essentielles pour la planification et les stratégies de marché. L'imagerie à haute résolution fournit des données détaillées sur les stades de croissance et la santé des cultures, permettant de meilleurs modèles de prévision. Cela aide les agriculteurs et les parties prenantes à anticiper l'offre du marché, à gérer les stocks et à planifier efficacement la distribution.
 
 ## Surveillance des Cultures
+
+![](images\yield_estimation.webp){.nolightbox fig-align="center" style="margin-top: 0 px;"}
 La surveillance continue des cultures est essentielle pour maintenir la santé des cultures et assurer une croissance optimale. L'imagerie à haute résolution permet de surveiller en temps réel les conditions des cultures, détectant rapidement des problèmes tels que les carences en nutriments, le stress hydrique et les épidémies de maladies. Cette intervention rapide aide à maintenir une haute qualité des cultures et à maximiser les rendements.
 
 :::

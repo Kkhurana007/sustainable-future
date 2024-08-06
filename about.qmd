@@ -1,14 +1,15 @@
 ---
-title: "About Us"
+#title: "About Us"
 ---
 
+
+::: {.content-visible when-profile="english"}
+
+# About Us
 
 ## Ensuring Your Agricultural Success
 
 ![](images\company's_logo.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
-
-::: {.content-visible when-profile="english"}
-
 
 ## Our Mission
 At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being.
@@ -25,6 +26,12 @@ Our team comprises seasoned agronomists, agricultural scientists, data analysts,
 :::
 
 ::: {.content-visible when-profile="french"}
+
+# À propos
+
+## Assurer votre réussite agricole
+
+![](images\company's_logo.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
 
 ## Notre Mission
 Chez Sustainable Future, notre mission est d'autonomiser les agriculteurs et les entreprises agricoles avec des solutions innovantes et basées sur les données qui améliorent la productivité, la résilience et la rentabilité. Nous nous engageons à promouvoir des pratiques agricoles durables qui non seulement assurent la sécurité alimentaire, mais contribuent également à la conservation de l'environnement et au bien-être des communautés.
