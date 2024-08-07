@@ -63,21 +63,21 @@ Chez Sustainable Future, nous nous spécialisons dans la fourniture de solutions
 Dans le paysage agricole en évolution rapide d'aujourd'hui, rester en avance nécessite plus que des méthodes traditionnelles. Nous exploitons la puissance de la science des données et de l'apprentissage automatique pour analyser de vastes quantités de données agricoles. En identifiant les tendances et en prédisant les conditions futures, nous vous fournissons des informations exploitables qui vous aident à prendre des décisions éclairées, à réduire les risques et à maximiser les rendements.
 
 ## Solutions sur mesure pour vos besoins uniques
-{.nolightbox fig-align="center" style="margin-top: 0 px;"}
+![](images\1704164613293.jpeg){.nolightbox fig-align="center" style="margin-top: 0 px;"}
 
 Chaque ferme est unique, avec son propre ensemble de défis et d'opportunités. Nos solutions sur mesure sont conçues pour répondre à vos besoins spécifiques, qu'il s'agisse de plans d'assurance récolte personnalisés, de diversification stratégique des cultures ou de consultations agronomiques expertes. Nous travaillons en étroite collaboration avec vous pour comprendre vos objectifs et développer des stratégies alignées avec votre vision de la réussite.
 
 ## Conseils et soutien d'experts
 Notre équipe d'agronomes expérimentés et de scientifiques agricoles apporte une richesse de connaissances et d'expérience. Nous nous engageons à vous offrir les meilleurs conseils et le meilleur soutien, en veillant à ce que vous disposiez des informations et des outils nécessaires pour optimiser vos pratiques agricoles. De la santé du sol et de la nutrition des cultures à la gestion des parasites et au choix des semences, nos experts sont là pour vous guider à chaque étape.
 
-{.nolightbox fig-align="center" style="margin-top: 0 px;"}
+![](images\scence6.webp){.nolightbox fig-align="center" style="margin-top: 0 px;"}
 
 ## Approche globale de la gestion agricole
-Nous offrons une large gamme de services conçus pour soutenir tous les aspects de votre exploitation agricole. Que vous ayez besoin de protection grâce à une assurance récolte, que vous souhaitiez explorer les avantages de la diversification des cultures ou que vous ayez besoin de solutions pour la gestion des sites contaminés, nous avons ce qu'il vous faut. Notre approche globale garantit que tous vos besoins agricoles sont satisfaits, vous permettant de vous concentrer sur ce que vous faites le mieux : l'agriculture.
+Nous offrons une large gamme de services conçus pour soutenir tous les aspects de votre exploitation agricole. Que vous ayez besoin de protection grâce à une assurance récolte, que vous souhaitiez explorer les avantages de la diversification des cultures ou que vous ayez besoin de solutions pour la gestion des sites contaminés, nous avons ce qu'il vous faut. Notre approche globale garantit que tous vos besoins agricoles sont satisfaits, vous permettant de vous concentrer sur ce que vous faites le mieux l'agriculture.
 
-{.nolightbox fig-align="center" style="margin-top: 0 px;}
+![](images\big-data-in-farming.jpg){.nolightbox fig-align="center" style="margin-top: 0 px;"}
 
-## isualiser le succès grâce à la technologie
+## Visualiser le succès grâce à la technologie
 Voir, c'est croire. Nos cartes interactives et visualisations de données en temps réel vous permettent de surveiller la performance des cultures, les conditions météorologiques et d'autres facteurs critiques. En visualisant ces informations, vous pouvez prendre des décisions proactives qui favorisent le succès et la durabilité de votre ferme.
 
 ## Agriculture durable et rentable

@@ -41,6 +41,10 @@ Continuous crop monitoring is essential for maintaining crop health and ensuring
 
 ::: {.content-visible when-profile="french"}
 
+# Pourquoi nous choisir? 
+
+## Informations basées sur les données
+
 ![](images\broad_sense.png){.nolightbox fig-align="center" style="margin-top: 0 px;"}
 
 
