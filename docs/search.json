@@ -67,7 +67,7 @@
     "href": "contact2.html",
     "title": "Contact Us",
     "section": "",
-    "text": "We’d love to hear from you! Whether you have a question about our services, feedback, or need support, our team is here to help.\n\n\nEmail: info@ilovesoils.com\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada\n\n\n\nFor your convenience, you can also fill out the form below, and we will get back to you as soon as possible.\n\nName:  Email:  Message:\n\n \n\n\n\n\nVisit our office at the location below:"
+    "text": "We’d love to hear from you! Whether you have a question about our services, feedback, or need support, our team is here to help.\n\n\nEmail: info@ilovesoils.com\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada\n\n\n\nFor your convenience, you can also fill out the form below, and we will get back to you as soon as possible.\n Contact us / Contactez-nous \n\n\n\nVisit our office at the location below:"
   },
   {
     "objectID": "contact2.html#get-in-touch",
@@ -81,7 +81,7 @@
     "href": "contact2.html#contact-form",
     "title": "Contact Us",
     "section": "",
-    "text": "For your convenience, you can also fill out the form below, and we will get back to you as soon as possible.\n\nName:  Email:  Message:"
+    "text": "For your convenience, you can also fill out the form below, and we will get back to you as soon as possible.\n Contact us / Contactez-nous"
   },
   {
     "objectID": "contact2.html#map",
@@ -200,14 +200,14 @@
     "href": "index.html",
     "title": "Sustainable Future",
     "section": "",
-    "text": "At Sustainable Future, we specialize in providing comprehensive crop insurance and diversification solutions tailored to the unique needs of farmers and agricultural businesses. Leveraging the power of data science, machine learning, and predictive models, we offer insights and strategies to enhance crop production and agronomy, ensuring you make informed decisions that maximize yield and profitability."
+    "text": "At Sustainable Future, we specialize in providing comprehensive crop diversification solutions tailored to the unique needs of farmers and agricultural businesses. Leveraging the power of data science, machine learning, and predictive models, we offer insights and strategies to enhance crop production and agronomy, and provide solutions to better manage the natural resources (soil, water, and air) ensuring farmers informed decisions that maximize yield and profitability."
   },
   {
     "objectID": "index.html#ensuring-your-agricultural-success",
     "href": "index.html#ensuring-your-agricultural-success",
     "title": "Sustainable Future",
     "section": "",
-    "text": "At Sustainable Future, we specialize in providing comprehensive crop insurance and diversification solutions tailored to the unique needs of farmers and agricultural businesses. Leveraging the power of data science, machine learning, and predictive models, we offer insights and strategies to enhance crop production and agronomy, ensuring you make informed decisions that maximize yield and profitability."
+    "text": "At Sustainable Future, we specialize in providing comprehensive crop diversification solutions tailored to the unique needs of farmers and agricultural businesses. Leveraging the power of data science, machine learning, and predictive models, we offer insights and strategies to enhance crop production and agronomy, and provide solutions to better manage the natural resources (soil, water, and air) ensuring farmers informed decisions that maximize yield and profitability."
   },
   {
     "objectID": "index.html#leveraging-data-science-and-machine-learning",
@@ -257,5 +257,12 @@
     "title": "Sustainable Future",
     "section": "Join Us on the Path to Success",
     "text": "Join Us on the Path to Success\nWe are passionate about helping farmers thrive in a competitive and ever-changing agricultural landscape. With our innovative solutions, expert guidance, and unwavering support, we empower you to achieve your agricultural goals and build a prosperous future."
+  },
+  {
+    "objectID": "collaborators.html#posts-in-english",
+    "href": "collaborators.html#posts-in-english",
+    "title": "Collaborators",
+    "section": "Posts in English",
+    "text": "Posts in English\n\n\n\n See all posts in English"
   }
 ]

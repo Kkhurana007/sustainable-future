@@ -34,7 +34,9 @@ website:
       - text: "Our Services"
         href: services.qmd
       - text: "Careers"
-        href: careers.qmd        
+        href: careers.qmd
+      - text: "Collaborators"
+        href: "collaborators.qmd"        
       - text: "Why Choose us?"
         href: choose.qmd
       - text: "Contact Us"

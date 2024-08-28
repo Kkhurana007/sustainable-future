@@ -33,7 +33,7 @@ Nous serions ravis de vous entendre! Que vous ayez une question sur nos services
 ## Nous contacter
 **Courriel:** [info@ilovesoils.com](mailto:info@ilovesoils.com)
 
-**Adresse :**
+**Adresse:**
 Sustainable Future
 63 5e Avenue,
 Pincourt, Québec, J7W 5K8
@@ -45,20 +45,17 @@ Pour votre commodité, vous pouvez également remplir le formulaire ci-dessous, 
 :::
 
 
-<form action="https://yourformendpoint.com" method="POST">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name"><br><br>
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="email"><br><br>
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message"></textarea><br><br>
-  <input type="submit" value="Submit">
-</form>
+<a href="https://forms.gle/XoQxExmXwJheaaae8" target="_blank">
+    <button>Contact us / Contactez-nous</button>
+</a>
+
 
 
 ::: {.content-visible when-profile="english"}
 
 ## Map
+
+Visit our office at the location below:
 
 :::
 
@@ -66,9 +63,11 @@ Pour votre commodité, vous pouvez également remplir le formulaire ci-dessous, 
 
 ## Carte
 
+Visitez notre bureau à l'emplacement ci-dessous:
+
 :::
 
-Visit our office at the location below:
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2810.172629930164!2d-74.000159!3d45.380884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9491c5c7202ad%3A0xa3c4d6ca35db8519!2sSustainable%20Future!5e0!3m2!1sen!2sus!4v1691252542801!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
 </iframe>

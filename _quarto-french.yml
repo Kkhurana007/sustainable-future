@@ -19,7 +19,7 @@ website:
         href: https://sustainable-future.ca/fr/index.html
       - icon: envelope
         href: mailto:info@ilovesoils.com
-      - text: "@2024 Sustainable Future. All rights reserved."
+      - text: "@2024 Sustainable Future. Tous droits réservés."
   navbar:
     left:
       - text: "À propos"
@@ -27,7 +27,9 @@ website:
       - text: "Nos Services"
         href: services.qmd 
       - text: "Emplois"
-        href: careers.qmd       
+        href: careers.qmd
+      - text: "Collaborateurs"
+        href: "collaborators.qmd"       
       - text: "Pourquoi nous choisir?"
         href: choose.qmd
       - text: "Nous Contacter"

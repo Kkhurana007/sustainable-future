@@ -1,0 +1,42 @@
+---
+title: "Collaborators"
+listing:
+  - id: collab-en
+    contents: 
+    - "collab/**/*/**.qmd"
+    - "collab/**/*/**.ipynb"
+    type: grid
+    fields: [image, date, title, subtitle, categories, author, reading-time]
+    sort: "date desc"
+    categories: cloud
+    sort-ui: false
+    filter-ui: false
+    page-size: 6
+  - id: collab-fr
+    contents: 
+    - "collab/**/*/**.qmd"
+    - "collab/**/*/**.ipynb"
+    type: grid
+    fields: [image, date, title, subtitle, categories, author, reading-time]
+    sort: "date desc"
+    #categories: cloud
+    sort-ui: false
+    filter-ui: false
+    page-size: 6   
+page-layout: full
+title-block-banner: false
+comments: false
+toc: true
+
+--- 
+  
+  
+---
+## Posts in English
+
+::: {#posts-en}
+:::
+
+<a href="../posts/en.html"> <button type="button" class="btn btn-primary float-end btn-sm">See all posts in English</button></a>
+
+<br>

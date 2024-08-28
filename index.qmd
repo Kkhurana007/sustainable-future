@@ -9,7 +9,7 @@ metadata-files:
 
 ## Ensuring Your Agricultural Success
 
-At Sustainable Future, we specialize in providing comprehensive crop insurance and diversification solutions tailored to the unique needs of farmers and agricultural businesses. Leveraging the power of data science, machine learning, and predictive models, we offer insights and strategies to enhance crop production and agronomy, ensuring you make informed decisions that maximize yield and profitability.
+At Sustainable Future, we specialize in providing comprehensive crop diversification solutions tailored to the unique needs of farmers and agricultural businesses. Leveraging the power of data science, machine learning, and predictive models, we offer insights and strategies to enhance crop production and agronomy, and provide solutions to better manage the natural resources (soil, water, and air)  ensuring farmers informed decisions that maximize yield and profitability.
 
 
 ## Leveraging Data Science and Machine Learning
