@@ -1,0 +1,29 @@
+---
+title: Bhupinder Jatana, Ph.D.
+
+---
+
+
+::: { .content-visible when-profile="english"}
+
+
+![](images\company's_logo.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
+
+
+Sagar brings over a decade of experience in agricultural research and development across Nepal and South Asia, with a focus on cereal system intensification and climate-smart, resource-conservation technologies. He has developed significant expertise in technology scaling, scale-appropriate mechanization, market system development, and improving governance within the agricultural sector.
+
+Sagar has a deep understanding of how data analytics can enhance farm productivity and profitability at the micro level and inform policy at the macro level. His work is particularly relevant in the Global South, where complex challenges and limited resources demand innovative solutions. Recently, he completed a project on addressing the specific needs of smallholder farming communities in Nepal’s mid-hills.
+
+:::
+
+
+::: { .content-visible when-profile="french"}
+
+![](images\company's_logo.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
+
+
+Sagar possède plus de dix ans d'expérience dans la recherche et le développement agricoles au Népal et en Asie du Sud, avec une expertise particulière dans l'intensification des systèmes céréaliers et les technologies de conservation des ressources adaptées au climat. Il a également développé des compétences dans le déploiement technologique, la mécanisation à l'échelle appropriée, le développement des systèmes de marché et l'amélioration de la gouvernance dans le secteur agricole.
+
+Sagar a une compréhension approfondie de la manière dont l'analyse des données peut être utilisée pour augmenter la productivité et la rentabilité des exploitations agricoles à l'échelle micro, tout en influençant les politiques à l'échelle macro, en particulier dans les pays du Sud où les défis sont multiples et les ressources limitées. Plus récemment, il a terminé un projet portant sur les défis spécifiques rencontrés par les communautés de petits exploitants agricoles dans les collines moyennes du Népal.
+
+:::

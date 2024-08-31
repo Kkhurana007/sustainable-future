@@ -1,0 +1,21 @@
+---
+title: Prakash Kumar Jha, Ph.D.
+image: prakash.png
+categories: [crop modeling, remote sensing, climate change, sustainability]
+---
+
+![](prakash.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
+
+::: { .content-visible when-profile="english"}
+
+
+My research interest focuses on investigating the influence of agronomic management on crop growth and development. I seek to understand complexities in agricultural systems, integrating crop simulation models, remote sensing and climate forecast to formulate decision support system for better management strategies of inputs in crop production system.
+
+:::
+
+::: { .content-visible when-profile="french"}
+
+
+Mes recherches portent sur l'étude de l'influence de la gestion agronomique sur la croissance et le développement des cultures. Je cherche à comprendre les complexités des systèmes agricoles en intégrant des modèles de simulation des cultures, la télédétection et les prévisions climatiques pour formuler un système d'aide à la décision permettant de meilleures stratégies de gestion des intrants dans les systèmes de production agricole.
+
+:::

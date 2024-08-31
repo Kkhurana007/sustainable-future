@@ -71,48 +71,21 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-collab-en .list');
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle','listing-categories','listing-author','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-categories"],
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 6,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-collab-en'] = new List('listing-collab-en', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-collab-fr .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle','listing-categories','listing-author','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-collab-fr'] = new List('listing-collab-fr', options);
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -226,10 +199,10 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#posts-in-english" id="toc-posts-in-english" class="nav-link active" data-scroll-target="#posts-in-english">Posts in English</a></li>
+  <li><a href="#list-of-collaborators-liste-des-collaborateurs" id="toc-list-of-collaborators-liste-des-collaborateurs" class="nav-link active" data-scroll-target="#list-of-collaborators-liste-des-collaborateurs">List of collaborators / Liste des collaborateurs</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"><div class="category" data-category="agricultural market surveillance"><span class="quarto-category-count category-cloud-2">agricultural market surveillance</span></div><div class="category" data-category="climate change"><span class="quarto-category-count category-cloud-2">climate change</span></div><div class="category" data-category="climate change impact assessment"><span class="quarto-category-count category-cloud-2">climate change impact assessment</span></div><div class="category" data-category="crop modeling"><span class="quarto-category-count category-cloud-2">crop modeling</span></div><div class="category" data-category="data-driven agronomy"><span class="quarto-category-count category-cloud-2">data-driven agronomy</span></div><div class="category" data-category="development management"><span class="quarto-category-count category-cloud-2">development management</span></div><div class="category" data-category="economic aspects"><span class="quarto-category-count category-cloud-2">economic aspects</span></div><div class="category" data-category="extension"><span class="quarto-category-count category-cloud-2">extension</span></div><div class="category" data-category="fertility"><span class="quarto-category-count category-cloud-2">fertility</span></div><div class="category" data-category="governance"><span class="quarto-category-count category-cloud-2">governance</span></div><div class="category" data-category="nutrient management"><span class="quarto-category-count category-cloud-2">nutrient management</span></div><div class="category" data-category="precision agriculture"><span class="quarto-category-count category-cloud-2">precision agriculture</span></div><div class="category" data-category="project implementation"><span class="quarto-category-count category-cloud-2">project implementation</span></div><div class="category" data-category="regional development"><span class="quarto-category-count category-cloud-2">regional development</span></div><div class="category" data-category="remote sensing"><span class="quarto-category-count category-cloud-2">remote sensing</span></div><div class="category" data-category="soil health"><span class="quarto-category-count category-cloud-2">soil health</span></div><div class="category" data-category="sustainability"><span class="quarto-category-count category-cloud-2">sustainability</span></div><div class="category" data-category="system research"><span class="quarto-category-count category-cloud-2">system research</span></div><div class="category" data-category="technology scaling"><span class="quarto-category-count category-cloud-2">technology scaling</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -253,32 +226,119 @@ window.Quarto = {
 
 
 <hr>
-<section id="posts-in-english" class="level2">
-<h2 class="anchored" data-anchor-id="posts-in-english">Posts in English</h2>
-<div id="posts-en">
+<section id="list-of-collaborators-liste-des-collaborateurs" class="level2">
+<h2 class="anchored" data-anchor-id="list-of-collaborators-liste-des-collaborateurs">List of collaborators / Liste des collaborateurs</h2>
+<div id="collab">
 
 </div>
-<p><a href="../posts/en.html"> <button type="button" class="btn btn-primary float-end btn-sm">See all posts in English</button></a></p>
+<p><a href="../collab.html"> <button type="button" class="btn btn-primary float-end btn-sm">See the complete list</button></a></p>
 <p><br></p>
 
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-collab-en">
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1725129749312" data-listing-reading-time-sort="2" data-listing-word-count-sort="266">
+<a href="./collab/bhupa.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="collab\images\company's_logo.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bhupinder Jatana, Ph.D.
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1725130913697" data-listing-reading-time-sort="2" data-listing-word-count-sort="266">
+<a href="./collab/harman.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="collab\images\company's_logo.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Harmanpreet Singh Sidhu, Ph.D.
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="economic aspects,project implementation,regional development,climate change impact assessment,agricultural market surveillance" data-listing-file-modified-sort="1725131213455" data-listing-reading-time-sort="2" data-listing-word-count-sort="294">
+<a href="./collab/nanda.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./collab/nanda.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Nanda Kumar Maharjan, M.Sc.
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="fertility,nutrient management,precision agriculture,soil health,extension" data-listing-file-modified-sort="1725131589781" data-listing-reading-time-sort="2" data-listing-word-count-sort="325">
+<a href="./collab/nikka.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./collab/hardeep.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hardeep Singh, Ph.D.
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="crop modeling,remote sensing,climate change,sustainability" data-listing-file-modified-sort="1725131366299" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
+<a href="./collab/prakash.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./collab/prakash.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Prakash Kumar Jha, Ph.D.
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="data-driven agronomy,technology scaling,development management,system research,governance" data-listing-file-modified-sort="1725131649718" data-listing-reading-time-sort="2" data-listing-word-count-sort="225">
+<a href="./collab/sagar.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./collab/collab/images/sagar.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sagar Kafle, Ph.D.
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1725131389114" data-listing-reading-time-sort="2" data-listing-word-count-sort="294">
+<a href="./collab/saini.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img data-src="collab\saini.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Rohit Saini, Ph.D.
+</h5>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div><div class="quarto-listing quarto-listing-container-grid" id="listing-collab-fr">
-<div class="list grid quarto-listing-cols-3">
-
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

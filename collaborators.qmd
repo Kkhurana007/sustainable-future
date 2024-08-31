@@ -1,28 +1,16 @@
 ---
 title: "Collaborators"
 listing:
-  - id: collab-en
     contents: 
-    - "collab/**/*/**.qmd"
-    - "collab/**/*/**.ipynb"
+    - "collab/**.qmd"
+    - "collab/**.ipynb"
     type: grid
-    fields: [image, date, title, subtitle, categories, author, reading-time]
+    fields: [image, title]
     sort: "date desc"
     categories: cloud
     sort-ui: false
     filter-ui: false
-    page-size: 6
-  - id: collab-fr
-    contents: 
-    - "collab/**/*/**.qmd"
-    - "collab/**/*/**.ipynb"
-    type: grid
-    fields: [image, date, title, subtitle, categories, author, reading-time]
-    sort: "date desc"
-    #categories: cloud
-    sort-ui: false
-    filter-ui: false
-    page-size: 6   
+    page-size: 6  
 page-layout: full
 title-block-banner: false
 comments: false
@@ -32,11 +20,24 @@ toc: true
   
   
 ---
-## Posts in English
+## List of collaborators / Liste des collaborateurs
 
-::: {#posts-en}
+::: {#collab}
 :::
 
-<a href="../posts/en.html"> <button type="button" class="btn btn-primary float-end btn-sm">See all posts in English</button></a>
+::: { .content-visible when-profile="english"}
+
+<a href="../collab.html"> <button type="button" class="btn btn-primary float-end btn-sm">See the complete list</button></a>
 
 <br>
+
+::: 
+
+
+::: { .content-visible when-profile="french"}
+
+<a href="../collab.html"> <button type="button" class="btn btn-primary float-end btn-sm">Voir la liste complète</button></a>
+
+<br>
+
+::: 
