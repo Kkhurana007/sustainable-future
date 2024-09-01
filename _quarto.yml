@@ -1,6 +1,6 @@
 project:
   type: website
-  post-render: _post-render.R
+  post-render: _post-render.py
   preview:
     port: 4200
 

@@ -1,1 +1,0 @@
-cat("sustainable-future.ca", file="docs_2/CNAME")
