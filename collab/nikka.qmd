@@ -1,6 +1,6 @@
 ---
 title: Hardeep Singh, Ph.D.
-image: hardeep.png
+image: nikka.png
 categories: [fertility, nutrient management, precision agriculture, soil health, extension]
 
 ---

@@ -1,5 +1,7 @@
 ---
 title: Rohit Saini, Ph.D.
+image: saini.png
+categories: [environmental externalities, agricultural trade, governance, sustainability]
 ---
 
 ![](saini.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
@@ -8,7 +10,7 @@ title: Rohit Saini, Ph.D.
 
 
 
-Nanda Kumar Maharjan has six years of experiences in development sector, demonstrating leadership roles in implementation of livelihood projects in Udayapur, Salyan, Gorkha, Rasuwa and Surkhet districts of Nepal. He has gained vast experience in designing, implementing and monitoring development projects for the improvement of livelihood of the communities while working with WOREC Nepal as Livelihood Officer and Livelihood Coordinator with CARDSN, Nuwakot. He also worked as a consultant for Nepal Coffee Producers Association and developed survey tools for coffee farmers profiling, assess the impact of climate change on coffee producers and central coffee collecting and processing centers infrastructure analysis. He has also worked in food system and market surveillance of agricultural commodities in coordination with International Food Policy Research Institute (IFPRI).
+My research focuses on quantifying the environmental and economic externalities of rice cultivation, particularly in India. It examines the impact of agricultural practices on natural resources and the economy, with an emphasis on trade dynamics, analyzing India's rice exports and imports to understand their influence on global markets and sustainability.
 
 :::
 
@@ -17,7 +19,7 @@ Nanda Kumar Maharjan has six years of experiences in development sector, demonst
 
 
 
-Nanda Kumar Maharjan possède six ans d'expérience dans le secteur du développement, démontrant des rôles de leadership dans la mise en œuvre de projets de subsistance dans les districts d'Udayapur, Salyan, Gorkha, Rasuwa et Surkhet au Népal. Il a acquis une vaste expérience dans la conception, la mise en œuvre et le suivi de projets de développement visant à améliorer les moyens de subsistance des communautés, tout en travaillant avec WOREC Nepal en tant qu'Agent de Subsistance et Coordinateur de Subsistance avec CARDSN, Nuwakot. Il a également travaillé en tant que consultant pour l'Association des Producteurs de Café du Népal, où il a développé des outils d'enquête pour le profilage des cultivateurs de café, évalué l'impact du changement climatique sur les producteurs de café, et analysé l'infrastructure des centres de collecte et de transformation du café. Il a également travaillé dans la surveillance des systèmes alimentaires et des marchés des produits agricoles en coordination avec l'Institut International de Recherche sur les Politiques Alimentaires (IFPRI).
+Mes recherches se concentrent sur la quantification des externalités environnementales et économiques de la culture du riz, en particulier en Inde. Elles examinent l'impact des pratiques agricoles sur les ressources naturelles et l'économie, en mettant l'accent sur les dynamiques commerciales, en analysant les exportations et importations de riz de l'Inde pour comprendre leur influence sur les marchés mondiaux et la durabilité.
 
 
 :::

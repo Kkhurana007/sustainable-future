@@ -19,7 +19,11 @@ website:
         href: https://sustainable-future.ca/fr/index.html
       - icon: envelope
         href: mailto:info@ilovesoils.com
-      - text: "@2024 Sustainable Future. Tous droits réservés."
+    
+    center: |
+      @2024 l'avenir durable. <br>
+       Tous droits reservés.
+       
   navbar:
     left:
       - text: "À propos"
