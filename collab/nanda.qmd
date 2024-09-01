@@ -4,9 +4,11 @@ image: nanda.png
 categories: [economic aspects, project implementation, regional development, climate change impact assessment, agricultural market surveillance]
 ---
 
+![](nanda.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
+
 ::: { .content-visible when-profile="english"}
 
-![](nanda.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
+
 
 
 Nanda Kumar Maharjan has six years of experiences in development sector, demonstrating leadership roles in implementation of livelihood projects in Udayapur, Salyan, Gorkha, Rasuwa and Surkhet districts of Nepal. He has gained vast experience in designing, implementing and monitoring development projects for the improvement of livelihood of the communities while working with WOREC Nepal as Livelihood Officer and Livelihood Coordinator with CARDSN, Nuwakot. He also worked as a consultant for Nepal Coffee Producers Association and developed survey tools for coffee farmers profiling, assess the impact of climate change on coffee producers and central coffee collecting and processing centers infrastructure analysis. He has also worked in food system and market surveillance of agricultural commodities in coordination with International Food Policy Research Institute (IFPRI).
