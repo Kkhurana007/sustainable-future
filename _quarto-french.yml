@@ -6,6 +6,7 @@ project:
   output-dir: docs/fr
 
 website:
+  favicon: images\logo.jpg
   page-navigation: true
   title: "Accueil"
   site-url: "https://sustainable-future.ca/"
@@ -43,3 +44,10 @@ website:
         text: English
       - href: https://sustainable-future.ca/fr/index.html
         text: Français 
+format:
+  html:
+    theme: 
+      light: journal
+      dark: darkly
+    css: styles.css
+    toc: true

@@ -1,5 +1,5 @@
 ---
-title: Sagar Kafle, Ph.D.
+title: Sagar Kafle
 image: sagar.png
 categories: [data-driven agronomy, technology scaling, development management, system research, governance]
 ---
