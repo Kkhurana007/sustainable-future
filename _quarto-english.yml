@@ -9,7 +9,7 @@ project:
 website:
   favicon: images\logo.jpg
   page-navigation: true
-  title: "Homepage"
+  title: "Sustainable Future"
   site-url: "https://sustainable-future.ca/"
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/) by [Kunal](https://ilovesoils.com/about.html)."
@@ -54,7 +54,7 @@ website:
 format:
   html:
     theme: 
-      light: journal
+      light: journal    
       dark: darkly
     css: styles.css
     toc: true

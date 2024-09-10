@@ -14,12 +14,4 @@ profile:
   #- _quarto-french.yml
   #- _quarto-english.yml
 
-format:
-  html:
-    theme: 
-      light: journal
-      dark: darkly
-    css: styles.css
-    toc: true
-
 editor: visual
