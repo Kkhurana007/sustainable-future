@@ -54,9 +54,11 @@ website:
 format:
   html:
     theme: 
-      light: journal    
-      dark: darkly
-    css: styles.css
+      light: cerulean
+      dark: cyborg
+    fontsize: 1.1em
+    linestretch: 1.7 
+    css: [styles.css]
     toc: true
 
 editor: visual

@@ -1,0 +1,25 @@
+---
+title: Salman Naqvi
+image: salman.png
+categories: [fastai, ai, tech, ml, dl, data science]
+---
+
+![](salman.png){.nolightbox fig-align="center" style="margin-top: 0px;"}
+
+::: { .content-visible when-profile="english"}
+
+
+
+A curious soul navigating the realms of AI, exploring the intricacies of Mandarin, fueled by an insatiable passion for learning. A devoted aficionado of science and technology, proudly wearing the badge of a “sci-tech geek”. In addition to unraveling the complexities of the digital world, I’ve ventured into real-world adventures across 15 countries so far, adding layers of cultural richness to my journey. [Website](https://forbo7.github.io/)
+
+:::
+
+
+::: { .content-visible when-profile="french"}
+
+
+
+Une personne curieuse explorant les domaines de l'IA et les subtilités du mandarin, animée par une passion insatiable pour l'apprentissage. En tant qu'amateur dévoué de science et de technologie, je porte fièrement l'étiquette de « passionné de sci-tech ». En plus de percer les mystères du monde numérique, j'ai entrepris des aventures dans 15 pays jusqu'à présent, enrichissant mon parcours d'une richesse culturelle variée. [Cite web](https://forbo7.github.io/)
+
+
+:::
