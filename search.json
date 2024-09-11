@@ -84,18 +84,60 @@
     "text": "List of collaborators / Liste des collaborateurs\n\n\n\n See the complete list"
   },
   {
-    "objectID": "collab/sagar.html",
-    "href": "collab/sagar.html",
-    "title": "Sagar Kafle",
+    "objectID": "collab/saini.html",
+    "href": "collab/saini.html",
+    "title": "Rohit Saini, Ph.D.",
     "section": "",
-    "text": "Dr. Sagar brings over a decade of experience in agricultural research and development across Nepal and South Asia, with a focus on cereal system intensification and climate-smart, resource-conservation technologies. He has developed significant expertise in technology scaling, scale-appropriate mechanization, market system development, and improving governance within the agricultural sector. He has a deep understanding of how data analytics can enhance farm productivity and profitability at the micro level and inform policy at the macro level. His work is particularly relevant in the South Asia, where complex challenges and limited resources demand innovative solutions."
+    "text": "My research focuses on quantifying the environmental and economic externalities of rice cultivation, particularly in India. It examines the impact of agricultural practices on natural resources and the economy, with an emphasis on trade dynamics, analyzing India’s rice exports and imports to understand their influence on global markets and sustainability."
   },
   {
-    "objectID": "collab/nikka.html",
-    "href": "collab/nikka.html",
-    "title": "Hardeep Singh, Ph.D.",
+    "objectID": "collab/prakash.html",
+    "href": "collab/prakash.html",
+    "title": "Prakash Kumar Jha, Ph.D.",
     "section": "",
-    "text": "Dr. Hardeep is located at the UF/IFAS West Florida Research and Education Center. His research program focuses on developing improved integrated crop fertility management tools and technologies for increasing the sustainability of cropping systems in the Southeast. Much of his work centers on nutrient mineralization and improved nutrient synchronization to increase nutrient use efficiency and reduce losses to the environment. Additionally, his work incorporates enhanced efficiency fertilizers, precision agriculture applications, crop physiological responses to fertility, and utilizing cover crops for improving soil health. Although his focus is on crop fertility, program remains responsive to critical industry needs. This necessitates research on critical topics that affect existing and novel cropping systems for the region, such as disease management, genotype evaluation, basic agronomy, phenology tracking for modeling purposes, and precision agriculture applications."
+    "text": "My research interest focuses on investigating the influence of agronomic management on crop growth and development. I seek to understand complexities in agricultural systems, integrating crop simulation models, remote sensing and climate forecast to formulate decision support system for better management strategies of inputs in crop production system."
+  },
+  {
+    "objectID": "collab/nanda.html",
+    "href": "collab/nanda.html",
+    "title": "Nanda Kumar Maharjan, M.Sc.",
+    "section": "",
+    "text": "Nanda Kumar Maharjan has six years of experiences in development sector, demonstrating leadership roles in implementation of livelihood projects in Udayapur, Salyan, Gorkha, Rasuwa and Surkhet districts of Nepal. He has gained vast experience in designing, implementing and monitoring development projects for the improvement of livelihood of the communities while working with WOREC Nepal as Livelihood Officer and Livelihood Coordinator with CARDSN, Nuwakot. He also worked as a consultant for Nepal Coffee Producers Association and developed survey tools for coffee farmers profiling, assess the impact of climate change on coffee producers and central coffee collecting and processing centers infrastructure analysis. He has also worked in food system and market surveillance of agricultural commodities in coordination with International Food Policy Research Institute (IFPRI)."
+  },
+  {
+    "objectID": "careers.html",
+    "href": "careers.html",
+    "title": "Job openings",
+    "section": "",
+    "text": "Job openings\n\nWe’re looking for a data scientist to be a part of our team. For a detailed job description, please refer to the job bank."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being.\n\n\n\nOur team comprises seasoned agronomists, agricultural scientists, data analysts, and technology experts who bring a wealth of knowledge and experience to the table. United by a common passion for sustainable agriculture, we work collaboratively to deliver personalized and effective solutions for our clients. Our multidisciplinary approach ensures that we address every aspect of your agricultural needs with precision and expertise.\n\n\n\n\nSustainability: We are committed to promoting farming practices that are environmentally sustainable, economically viable, and socially responsible.\nInnovation: We leverage cutting-edge technology and scientific advancements to provide forward-thinking solutions that drive agricultural success.\nIntegrity: We conduct our business with the highest standards of ethics, transparency, and honesty, ensuring trust and reliability in all our interactions.\nCollaboration: We believe in the power of teamwork and partnerships, working closely with our clients and stakeholders to achieve shared goals.\nExcellence: We strive for excellence in everything we do, from our services and solutions to our customer support, ensuring the highest quality outcomes for our clients."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Us",
+    "section": "",
+    "text": "At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being."
+  },
+  {
+    "objectID": "about.html#our-team",
+    "href": "about.html#our-team",
+    "title": "About Us",
+    "section": "",
+    "text": "Our team comprises seasoned agronomists, agricultural scientists, data analysts, and technology experts who bring a wealth of knowledge and experience to the table. United by a common passion for sustainable agriculture, we work collaboratively to deliver personalized and effective solutions for our clients. Our multidisciplinary approach ensures that we address every aspect of your agricultural needs with precision and expertise."
+  },
+  {
+    "objectID": "about.html#our-values",
+    "href": "about.html#our-values",
+    "title": "About Us",
+    "section": "",
+    "text": "Sustainability: We are committed to promoting farming practices that are environmentally sustainable, economically viable, and socially responsible.\nInnovation: We leverage cutting-edge technology and scientific advancements to provide forward-thinking solutions that drive agricultural success.\nIntegrity: We conduct our business with the highest standards of ethics, transparency, and honesty, ensuring trust and reliability in all our interactions.\nCollaboration: We believe in the power of teamwork and partnerships, working closely with our clients and stakeholders to achieve shared goals.\nExcellence: We strive for excellence in everything we do, from our services and solutions to our customer support, ensuring the highest quality outcomes for our clients."
   },
   {
     "objectID": "choose.html",
@@ -154,60 +196,25 @@
     "text": "Continuous crop monitoring is essential for maintaining crop health and ensuring optimal growth. Deep resolution imagery allows for real-time monitoring of crop conditions, detecting issues like nutrient deficiencies, water stress, and disease outbreaks promptly. This timely intervention helps in maintaining high crop quality and maximizing yields."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Us",
+    "objectID": "collab/nikka.html",
+    "href": "collab/nikka.html",
+    "title": "Hardeep Singh, Ph.D.",
     "section": "",
-    "text": "At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being.\n\n\n\nOur team comprises seasoned agronomists, agricultural scientists, data analysts, and technology experts who bring a wealth of knowledge and experience to the table. United by a common passion for sustainable agriculture, we work collaboratively to deliver personalized and effective solutions for our clients. Our multidisciplinary approach ensures that we address every aspect of your agricultural needs with precision and expertise.\n\n\n\n\nSustainability: We are committed to promoting farming practices that are environmentally sustainable, economically viable, and socially responsible.\nInnovation: We leverage cutting-edge technology and scientific advancements to provide forward-thinking solutions that drive agricultural success.\nIntegrity: We conduct our business with the highest standards of ethics, transparency, and honesty, ensuring trust and reliability in all our interactions.\nCollaboration: We believe in the power of teamwork and partnerships, working closely with our clients and stakeholders to achieve shared goals.\nExcellence: We strive for excellence in everything we do, from our services and solutions to our customer support, ensuring the highest quality outcomes for our clients."
+    "text": "Dr. Hardeep is located at the UF/IFAS West Florida Research and Education Center. His research program focuses on developing improved integrated crop fertility management tools and technologies for increasing the sustainability of cropping systems in the Southeast. Much of his work centers on nutrient mineralization and improved nutrient synchronization to increase nutrient use efficiency and reduce losses to the environment. Additionally, his work incorporates enhanced efficiency fertilizers, precision agriculture applications, crop physiological responses to fertility, and utilizing cover crops for improving soil health. Although his focus is on crop fertility, program remains responsive to critical industry needs. This necessitates research on critical topics that affect existing and novel cropping systems for the region, such as disease management, genotype evaluation, basic agronomy, phenology tracking for modeling purposes, and precision agriculture applications."
   },
   {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About Us",
+    "objectID": "collab/sagar.html",
+    "href": "collab/sagar.html",
+    "title": "Sagar Kafle",
     "section": "",
-    "text": "At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being."
+    "text": "Dr. Sagar brings over a decade of experience in agricultural research and development across Nepal and South Asia, with a focus on cereal system intensification and climate-smart, resource-conservation technologies. He has developed significant expertise in technology scaling, scale-appropriate mechanization, market system development, and improving governance within the agricultural sector. He has a deep understanding of how data analytics can enhance farm productivity and profitability at the micro level and inform policy at the macro level. His work is particularly relevant in the South Asia, where complex challenges and limited resources demand innovative solutions."
   },
   {
-    "objectID": "about.html#our-team",
-    "href": "about.html#our-team",
-    "title": "About Us",
+    "objectID": "collab/salman.html",
+    "href": "collab/salman.html",
+    "title": "Salman Naqvi",
     "section": "",
-    "text": "Our team comprises seasoned agronomists, agricultural scientists, data analysts, and technology experts who bring a wealth of knowledge and experience to the table. United by a common passion for sustainable agriculture, we work collaboratively to deliver personalized and effective solutions for our clients. Our multidisciplinary approach ensures that we address every aspect of your agricultural needs with precision and expertise."
-  },
-  {
-    "objectID": "about.html#our-values",
-    "href": "about.html#our-values",
-    "title": "About Us",
-    "section": "",
-    "text": "Sustainability: We are committed to promoting farming practices that are environmentally sustainable, economically viable, and socially responsible.\nInnovation: We leverage cutting-edge technology and scientific advancements to provide forward-thinking solutions that drive agricultural success.\nIntegrity: We conduct our business with the highest standards of ethics, transparency, and honesty, ensuring trust and reliability in all our interactions.\nCollaboration: We believe in the power of teamwork and partnerships, working closely with our clients and stakeholders to achieve shared goals.\nExcellence: We strive for excellence in everything we do, from our services and solutions to our customer support, ensuring the highest quality outcomes for our clients."
-  },
-  {
-    "objectID": "careers.html",
-    "href": "careers.html",
-    "title": "Job openings",
-    "section": "",
-    "text": "Job openings\n\nWe’re looking for a data scientist to be a part of our team. For a detailed job description, please refer to the job bank."
-  },
-  {
-    "objectID": "collab/nanda.html",
-    "href": "collab/nanda.html",
-    "title": "Nanda Kumar Maharjan, M.Sc.",
-    "section": "",
-    "text": "Nanda Kumar Maharjan has six years of experiences in development sector, demonstrating leadership roles in implementation of livelihood projects in Udayapur, Salyan, Gorkha, Rasuwa and Surkhet districts of Nepal. He has gained vast experience in designing, implementing and monitoring development projects for the improvement of livelihood of the communities while working with WOREC Nepal as Livelihood Officer and Livelihood Coordinator with CARDSN, Nuwakot. He also worked as a consultant for Nepal Coffee Producers Association and developed survey tools for coffee farmers profiling, assess the impact of climate change on coffee producers and central coffee collecting and processing centers infrastructure analysis. He has also worked in food system and market surveillance of agricultural commodities in coordination with International Food Policy Research Institute (IFPRI)."
-  },
-  {
-    "objectID": "collab/prakash.html",
-    "href": "collab/prakash.html",
-    "title": "Prakash Kumar Jha, Ph.D.",
-    "section": "",
-    "text": "My research interest focuses on investigating the influence of agronomic management on crop growth and development. I seek to understand complexities in agricultural systems, integrating crop simulation models, remote sensing and climate forecast to formulate decision support system for better management strategies of inputs in crop production system."
-  },
-  {
-    "objectID": "collab/saini.html",
-    "href": "collab/saini.html",
-    "title": "Rohit Saini, Ph.D.",
-    "section": "",
-    "text": "My research focuses on quantifying the environmental and economic externalities of rice cultivation, particularly in India. It examines the impact of agricultural practices on natural resources and the economy, with an emphasis on trade dynamics, analyzing India’s rice exports and imports to understand their influence on global markets and sustainability."
+    "text": "A curious soul navigating the realms of AI, exploring the intricacies of Mandarin, fueled by an insatiable passion for learning. A devoted aficionado of science and technology, proudly wearing the badge of a “sci-tech geek”. In addition to unraveling the complexities of the digital world, I’ve ventured into real-world adventures across 15 countries so far, adding layers of cultural richness to my journey. Website"
   },
   {
     "objectID": "contact2.html",
