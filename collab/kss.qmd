@@ -1,0 +1,28 @@
+---
+title: KS Subramanianj, P.hD.
+image: kss.jpeg
+categories: [agriculture, nanotechnology, digital farming, nano fertilizer, mycorrhiza]
+---
+
+![](kss.jpeg){.nolightbox fig-align="center" style="margin-top: 0px; width: 70%; height: 70%;"}
+
+
+::: { .content-visible when-profile="english"}
+
+
+
+
+A well-known agricultural nanotechnologist who handled several nanotech projects, evolved 15 nanotechnologies encompassing fruit preservation, provided various nano-enabled agri inputs, diagnostic software for nutrient deficiencies in crops, nano-fertilizers, nano-fibres for multi-input delivery, and a N-sensor for plant health monitoring. He has over 200 publications with an H-index of 37, holds 2 patents, and has received over 15 national/international awards. He is involved in various policymaking organizations such as DBT, DST, ICAR, NASF, and FCO.
+
+
+:::
+
+
+::: { .content-visible when-profile="french"}
+
+
+
+
+Un nanotechnologue agricole bien connu qui a dirigé plusieurs projets en nanotechnologie et qui a développé 15 technologies, dont la préservation des fruits, des intrants agricoles enrichis par les nanotechnologies, des logiciels de diagnostic des carences nutritionnelles dans les cultures, des nano-engrais, des nanofibres pour la distribution de multiples intrants et un capteur d'azote pour le suivi de la santé des plantes. Il a publié plus de 200 articles, détient 2 brevets, a reçu 15 distinctions et possède un indice H de 37. Il est également impliqué dans plusieurs organisations de politiques réputées telles que le DBT, le DST, l'ICAR, le NASF et le FCO.
+
+:::
