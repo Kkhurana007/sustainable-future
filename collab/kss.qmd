@@ -1,5 +1,5 @@
 ---
-title: KS Subramanianj, P.hD.
+title: KS Subramanianj, Ph.D.
 image: kss.jpeg
 categories: [agriculture, nanotechnology, digital farming, nano fertilizer, mycorrhiza]
 ---
