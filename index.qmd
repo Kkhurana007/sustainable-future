@@ -51,11 +51,11 @@ We are passionate about helping farmers thrive in a competitive and ever-changin
 
 ::: {.content-visible when-profile="french"}
 
-# l'Avenir Durable
+# Avenir Durable
 
 ## Assurer Votre Succès Agricole
 
-Chez l'avenir durable, nous nous spécialisons dans la fourniture de solutions complètes d'assurance-récolte et de diversification adaptées aux besoins uniques des agriculteurs et des entreprises agricoles. En tirant parti de la puissance de la science des données, de l'apprentissage automatique et des modèles prédictifs, nous offrons des perspectives et des stratégies pour améliorer la production agricole et l'agronomie, vous permettant de prendre des décisions éclairées qui maximisent le rendement et la rentabilité.
+Chez Avenir Durable, nous nous spécialisons dans la fourniture de solutions complètes d'assurance-récolte et de diversification adaptées aux besoins uniques des agriculteurs et des entreprises agricoles. En tirant parti de la puissance de la science des données, de l'apprentissage automatique et des modèles prédictifs, nous offrons des perspectives et des stratégies pour améliorer la production agricole et l'agronomie, vous permettant de prendre des décisions éclairées qui maximisent le rendement et la rentabilité.
 
 ## Tirer parti de la science des données et de l'apprentissage automatique
 
