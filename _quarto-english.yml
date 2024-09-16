@@ -12,7 +12,13 @@ website:
   title: "Sustainable Future"
   site-url: "https://sustainable-future.ca/"
   page-footer:
-    left: "Website made with [Quarto](https://quarto.org/) by [Kunal](https://ilovesoils.com/about.html)."
+    left:
+      - text: Ethics
+        href: ethics.qmd
+      - text: Privacy policy
+        href: policy.qmd
+      - text: Terms of Service
+        href: terms.qmd
 
     right:
       - text: English
@@ -24,7 +30,10 @@ website:
     
     center: |
       @2024 Sustainable Future. <br>
-       All rights reserved.
+       All rights reserved. <br>
+       Website made with [Quarto](https://quarto.org/) by [Kunal](https://ilovesoils.com/about.html).
+  
+      
 
 
   #search:

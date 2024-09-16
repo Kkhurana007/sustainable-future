@@ -11,7 +11,13 @@ website:
   title: "Avenir Durable"
   site-url: "https://sustainable-future.ca/"
   page-footer:
-    left: "Cite web créer avec [Quarto](https://quarto.org/) par [Kunal](https://ilovesoils.com/about.html)."
+    left: 
+      - text: Éthique
+        href: ethics.qmd
+      - text: Politique de confidentialité
+        href: policy.qmd
+      - text: Conditions de service
+        href: terms.qmd
 
     right:
       - text: English
@@ -23,7 +29,8 @@ website:
     
     center: |
       @2024 l'avenir durable. <br>
-       Tous droits reservés.
+       Tous droits reservés. <br>
+       Cite web créer avec [Quarto](https://quarto.org/) par [Kunal](https://ilovesoils.com/about.html).
        
   navbar:
     left:

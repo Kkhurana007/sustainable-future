@@ -1,0 +1,154 @@
+---
+# title: 
+---
+::: {.content-visible when-profile="english"}
+# Sustainable Future Terms of Service
+Effective Date: [July, 2024]<br>
+
+Welcome to Sustainable Future. These Terms of Service ("Terms") govern your use of our website and services. By accessing or using our services, you agree to comply with these Terms. If you do not agree, please refrain from using our services.
+
+## 1. Acceptance of Terms
+By accessing and using our website or services, you acknowledge that you have read, understood, and agree to be bound by these Terms. This agreement is governed by the laws of Canada, particularly the Canadian Consumer Protection Law and Personal Information Protection and Electronic Documents Act (PIPEDA).
+
+## 2. Eligibility
+To use our services, you must be at least 18 years old or have reached the age of majority in your province or territory of residence. By using the site, you represent that you meet this requirement.
+
+## 3. Modifications to the Terms
+Sustainable Future reserves the right to modify these Terms at any time. Any changes will be effective upon posting the updated Terms on our website. It is your responsibility to review these Terms periodically. Continued use of the site after such modifications constitutes acceptance of the changes.
+
+## 4. Use of the Services
+### a. Permitted Use
+You may use our website and services for lawful purposes only. You agree not to:
+
+Engage in any unlawful activity or use the services for fraudulent purposes.
+Violate any local, provincial, or federal laws or regulations.
+Copy, reproduce, or distribute any content or intellectual property from our site without permission.
+
+### b. Prohibited Conduct
+You agree not to:
+
+Upload or transmit any harmful, disruptive, or malicious code (e.g., viruses).
+Interfere with the functionality or security of the site or attempt to gain unauthorized access.
+Harass, abuse, or harm others through your interactions on our platform.
+
+## 5. Intellectual Property
+All content on the Sustainable Future website, including text, graphics, logos, and software, is the intellectual property of Sustainable Future or its licensors. You may not reproduce, distribute, modify, or use this content for commercial purposes without prior written permission.
+
+## 6. Privacy
+Your use of our services is subject to our Privacy Policy, which is incorporated by reference into these Terms. By using our services, you agree to the collection, use, and sharing of your information as described in our Privacy Policy, in accordance with Canadian privacy laws.
+
+## 7. Third-Party Services
+Our services may contain links to third-party websites or services that are not owned or controlled by Sustainable Future. We are not responsible for the content, privacy policies, or practices of these third-party services. You access these services at your own risk.
+
+## 8. Disclaimers and Limitation of Liability
+
+a. Disclaimers
+Sustainable Future provides its services on an "as-is" and "as-available" basis, without warranties of any kind, either express or implied. We do not guarantee that the website or services will be error-free, secure, or uninterrupted, nor do we make any warranties regarding the accuracy, reliability, or completeness of any content.
+
+b. Limitation of Liability
+To the fullest extent permitted by law, Sustainable Future shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of or related to your use of the website or services. This includes damages for loss of profits, data, or other intangible losses.
+
+c. Indemnification
+You agree to indemnify and hold Sustainable Future harmless from any claims, damages, or expenses arising from your use of the website or services, your violation of these Terms, or your infringement of any rights of another party.
+
+## 9. Termination of Services
+Sustainable Future reserves the right to terminate or suspend your access to our services at any time, for any reason, including if you violate these Terms or engage in prohibited conduct. Upon termination, you must cease all use of our services and destroy any copies of materials obtained through the site.
+
+## 10. Governing Law and Jurisdiction
+These Terms shall be governed by and construed in accordance with the laws of Canada and the applicable laws of your province or territory of residence. Any disputes arising out of these Terms or your use of the services shall be subject to the exclusive jurisdiction of the courts located in Canada.
+
+## 11. Severability
+If any provision of these Terms is found to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions will remain in full force and effect.
+
+## 12. Contact Information
+If you have any questions or concerns about these Terms or our services, please contact us at:
+
+**Sustainable Future**<br>
+
+**Email:** [info@sustainable-future.ca](mailto:info@sustainable-future.ca)
+
+
+**Address:**  
+Sustainable Future   
+63 5e Avenue,
+Pincourt, Québec, J7W 5K8 
+Canada
+
+
+:::
+
+::: {.content-visible when-profile="french"}
+
+# Conditions d'utilisation d'Avenir Durable
+Date d'entrée en vigueur : [Juillet, 2024]<br>
+
+Bienvenue sur Avenir Durable. Ces conditions d'utilisation ("Conditions") régissent votre utilisation de notre site web et de nos services. En accédant ou en utilisant nos services, vous acceptez de vous conformer à ces Conditions. Si vous n'acceptez pas ces termes, veuillez ne pas utiliser nos services.
+
+## 1. Acceptation des conditions
+En accédant à notre site web ou en utilisant nos services, vous reconnaissez avoir lu, compris et accepté d'être lié par ces Conditions. Cet accord est régi par les lois du Canada, notamment la Loi canadienne sur la protection des consommateurs et la Loi sur la protection des renseignements personnels et les documents électroniques (LPRPDE).
+
+## 2. Admissibilité
+Pour utiliser nos services, vous devez avoir au moins 18 ans ou avoir atteint l'âge de la majorité dans votre province ou territoire de résidence. En utilisant notre site, vous affirmez que vous répondez à ce critère.
+
+## 3. Modifications des conditions
+Avenir Durable se réserve le droit de modifier ces Conditions à tout moment. Toute modification prendra effet dès la publication des Conditions mises à jour sur notre site web. Il est de votre responsabilité de consulter ces Conditions régulièrement. La poursuite de l'utilisation du site après de telles modifications constitue votre acceptation des modifications.
+
+## 4. Utilisation des services
+
+### a. Utilisation permise
+Vous pouvez utiliser notre site et nos services uniquement à des fins légales. Vous acceptez de ne pas :
+
+Vous engager dans des activités illégales ou utiliser les services à des fins frauduleuses.
+Violer toute loi ou réglementation locale, provinciale ou fédérale.
+Copier, reproduire ou distribuer tout contenu ou propriété intellectuelle de notre site sans autorisation.
+
+### b. Conduite interdite
+
+Vous acceptez de ne pas :
+
+Télécharger ou transmettre des codes malveillants ou perturbateurs (ex. : virus).
+Interférer avec le fonctionnement ou la sécurité du site ou tenter d'obtenir un accès non autorisé.
+Harceler, abuser ou nuire à autrui à travers vos interactions sur notre plateforme.
+
+## 5. Propriété intellectuelle
+Tout le contenu du site Avenir Durable, y compris les textes, graphiques, logos et logiciels, est la propriété intellectuelle d'Avenir Durable ou de ses concédants. Vous ne pouvez pas reproduire, distribuer, modifier ou utiliser ce contenu à des fins commerciales sans autorisation écrite préalable.
+
+## 6. Confidentialité
+Votre utilisation de nos services est soumise à notre Politique de confidentialité, qui est intégrée par référence dans ces Conditions. En utilisant nos services, vous acceptez la collecte, l'utilisation et le partage de vos informations telles que décrites dans notre Politique de confidentialité, conformément aux lois canadiennes sur la protection des renseignements personnels.
+
+## 7. Services de tiers
+Nos services peuvent contenir des liens vers des sites web ou services tiers qui ne sont pas la propriété ni sous le contrôle d'Avenir Durable. Nous ne sommes pas responsables du contenu, des politiques de confidentialité ou des pratiques de ces services tiers. Vous accédez à ces services à vos propres risques.
+
+## 8. Exclusions et limitation de responsabilité
+a. Exclusions
+Avenir Durable fournit ses services "tels quels" et "selon disponibilité", sans garanties d'aucune sorte, qu'elles soient expresses ou implicites. Nous ne garantissons pas que le site ou les services seront exempts d'erreurs, sécurisés ou ininterrompus, ni ne faisons aucune garantie concernant l'exactitude, la fiabilité ou l'exhaustivité de tout contenu.
+
+b. Limitation de responsabilité
+Dans toute la mesure permise par la loi, Avenir Durable ne pourra être tenu responsable de tout dommage direct, indirect, accessoire, consécutif ou punitif résultant de ou lié à votre utilisation du site ou des services. Cela inclut les dommages pour perte de bénéfices, de données ou toute autre perte immatérielle.
+
+c. Indemnisation
+Vous acceptez d'indemniser et de dégager Avenir Durable de toute responsabilité pour toute réclamation, dommage ou dépense découlant de votre utilisation du site ou des services, de votre violation des présentes Conditions ou de votre atteinte aux droits d'une autre partie.
+
+## 9. Résiliation des services
+Avenir Durable se réserve le droit de résilier ou de suspendre votre accès à nos services à tout moment, pour quelque raison que ce soit, y compris en cas de violation des présentes Conditions ou de conduite interdite. En cas de résiliation, vous devez cesser toute utilisation de nos services et détruire toute copie des matériaux obtenus via le site.
+
+## 10. Droit applicable et juridiction
+Ces Conditions sont régies par et interprétées conformément aux lois du Canada et aux lois applicables de votre province ou territoire de résidence. Tout litige découlant de ces Conditions ou de votre utilisation des services sera soumis à la juridiction exclusive des tribunaux situés au Canada.
+
+## 11. Divisibilité
+Si une disposition de ces Conditions est jugée invalide ou inapplicable par un tribunal compétent, les autres dispositions resteront pleinement en vigueur.
+
+## 12. Coordonnées
+Si vous avez des questions ou des préoccupations concernant ces Conditions ou nos services, veuillez nous contacter à :
+
+**Avenir Durable** <br>
+**Courriel:** [info@sustainable-future.ca](mailto:info@sustainable-future.ca)
+
+**Adresse:**
+Sustainable Future<br> 
+63 5e Avenue,
+Pincourt, Québec, J7W 5K8
+Canada
+
+:::
+

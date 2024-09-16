@@ -14,6 +14,69 @@
     "text": "Send a message to us!\n\nLoading…"
   },
   {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Our Services",
+    "section": "",
+    "text": "Protect your investment with our tailored crop insurance plans. We analyze historical data and predictive models to offer coverage that best suits your needs, minimizing risks associated with unpredictable weather and market conditions.\n\n\n\nOptimize your farm’s potential by diversifying your crops. Our data-driven approach helps you select the best crops for your soil and climate, enhancing resilience and profitability.\n\n\n\nOur expert agronomists provide personalized advice on soil health, crop nutrition, and pest management. We use cutting-edge technology to ensure your crops get the right nutrients at the right time.\n\n\n\nChoose the right seeds for your specific needs. We offer guidance on seed selection based on your soil type, climate conditions, and market demand, ensuring robust and profitable crops.\n\n\n\nSustainably manage your forested lands with our forest care services. We provide strategies for maintaining healthy forests, preventing diseases, and maximizing timber production.\n\n\n\nAddress and remediate contaminated sites with our expert guidance. We offer solutions to manage soil contamination, ensuring safe and productive land use.\n\n\n\nOur team of seasoned agronomists and agricultural scientists is dedicated to providing the best advice and solutions for your farming needs.\n\n\n\nFrom crop insurance to forest care, we offer a wide range of services designed to support every aspect of your agricultural operation."
+  },
+  {
+    "objectID": "services.html#crop-insurance",
+    "href": "services.html#crop-insurance",
+    "title": "Our Services",
+    "section": "",
+    "text": "Protect your investment with our tailored crop insurance plans. We analyze historical data and predictive models to offer coverage that best suits your needs, minimizing risks associated with unpredictable weather and market conditions."
+  },
+  {
+    "objectID": "services.html#crop-diversification",
+    "href": "services.html#crop-diversification",
+    "title": "Our Services",
+    "section": "",
+    "text": "Optimize your farm’s potential by diversifying your crops. Our data-driven approach helps you select the best crops for your soil and climate, enhancing resilience and profitability."
+  },
+  {
+    "objectID": "services.html#agronomy-consultation",
+    "href": "services.html#agronomy-consultation",
+    "title": "Our Services",
+    "section": "",
+    "text": "Our expert agronomists provide personalized advice on soil health, crop nutrition, and pest management. We use cutting-edge technology to ensure your crops get the right nutrients at the right time."
+  },
+  {
+    "objectID": "services.html#seed-diversification",
+    "href": "services.html#seed-diversification",
+    "title": "Our Services",
+    "section": "",
+    "text": "Choose the right seeds for your specific needs. We offer guidance on seed selection based on your soil type, climate conditions, and market demand, ensuring robust and profitable crops."
+  },
+  {
+    "objectID": "services.html#forest-care",
+    "href": "services.html#forest-care",
+    "title": "Our Services",
+    "section": "",
+    "text": "Sustainably manage your forested lands with our forest care services. We provide strategies for maintaining healthy forests, preventing diseases, and maximizing timber production."
+  },
+  {
+    "objectID": "services.html#contaminated-site-solutions",
+    "href": "services.html#contaminated-site-solutions",
+    "title": "Our Services",
+    "section": "",
+    "text": "Address and remediate contaminated sites with our expert guidance. We offer solutions to manage soil contamination, ensuring safe and productive land use."
+  },
+  {
+    "objectID": "services.html#expert-consultation",
+    "href": "services.html#expert-consultation",
+    "title": "Our Services",
+    "section": "",
+    "text": "Our team of seasoned agronomists and agricultural scientists is dedicated to providing the best advice and solutions for your farming needs."
+  },
+  {
+    "objectID": "services.html#comprehensive-coverage",
+    "href": "services.html#comprehensive-coverage",
+    "title": "Our Services",
+    "section": "",
+    "text": "From crop insurance to forest care, we offer a wide range of services designed to support every aspect of your agricultural operation."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Sustainable Future",
@@ -77,32 +140,95 @@
     "text": "We are passionate about helping farmers thrive in a competitive and ever-changing agricultural landscape. With our innovative solutions, expert guidance, and unwavering support, we empower you to achieve your agricultural goals and build a prosperous future."
   },
   {
-    "objectID": "collaborators.html#list-of-collaborators-liste-des-collaborateurs",
-    "href": "collaborators.html#list-of-collaborators-liste-des-collaborateurs",
-    "title": "Collaborators",
-    "section": "List of collaborators / Liste des collaborateurs",
-    "text": "List of collaborators / Liste des collaborateurs\n\n\n\n See the complete list"
+    "objectID": "contact2.html",
+    "href": "contact2.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "We’d love to hear from you! Whether you have a question about our services, feedback, or need support, our team is here to help.\n\n\nEmail: info@sustainable-future.ca\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada\n\n\n\nFor your convenience, you can also fill out the form below, and we will get back to you as soon as possible.\n Contact us / Contactez-nous \n\n\n\nVisit our office at the location below:"
   },
   {
-    "objectID": "collab/saini.html",
-    "href": "collab/saini.html",
-    "title": "Rohit Saini, Ph.D.",
+    "objectID": "contact2.html#get-in-touch",
+    "href": "contact2.html#get-in-touch",
+    "title": "Contact Us",
     "section": "",
-    "text": "My research focuses on quantifying the environmental and economic externalities of rice cultivation, particularly in India. It examines the impact of agricultural practices on natural resources and the economy, with an emphasis on trade dynamics, analyzing India’s rice exports and imports to understand their influence on global markets and sustainability."
+    "text": "Email: info@sustainable-future.ca\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada"
   },
   {
-    "objectID": "collab/prakash.html",
-    "href": "collab/prakash.html",
-    "title": "Prakash Kumar Jha, Ph.D.",
+    "objectID": "contact2.html#contact-form",
+    "href": "contact2.html#contact-form",
+    "title": "Contact Us",
     "section": "",
-    "text": "My research interest focuses on investigating the influence of agronomic management on crop growth and development. I seek to understand complexities in agricultural systems, integrating crop simulation models, remote sensing and climate forecast to formulate decision support system for better management strategies of inputs in crop production system."
+    "text": "For your convenience, you can also fill out the form below, and we will get back to you as soon as possible.\n Contact us / Contactez-nous"
   },
   {
-    "objectID": "collab/nanda.html",
-    "href": "collab/nanda.html",
-    "title": "Nanda Kumar Maharjan, M.Sc.",
+    "objectID": "contact2.html#map",
+    "href": "contact2.html#map",
+    "title": "Contact Us",
     "section": "",
-    "text": "Nanda Kumar Maharjan has six years of experiences in development sector, demonstrating leadership roles in implementation of livelihood projects in Udayapur, Salyan, Gorkha, Rasuwa and Surkhet districts of Nepal. He has gained vast experience in designing, implementing and monitoring development projects for the improvement of livelihood of the communities while working with WOREC Nepal as Livelihood Officer and Livelihood Coordinator with CARDSN, Nuwakot. He also worked as a consultant for Nepal Coffee Producers Association and developed survey tools for coffee farmers profiling, assess the impact of climate change on coffee producers and central coffee collecting and processing centers infrastructure analysis. He has also worked in food system and market surveillance of agricultural commodities in coordination with International Food Policy Research Institute (IFPRI)."
+    "text": "Visit our office at the location below:"
+  },
+  {
+    "objectID": "collab/salman.html",
+    "href": "collab/salman.html",
+    "title": "Salman Naqvi",
+    "section": "",
+    "text": "A curious soul navigating the realms of AI, exploring the intricacies of Mandarin, fueled by an insatiable passion for learning. A devoted aficionado of science and technology, proudly wearing the badge of a “sci-tech geek”. In addition to unraveling the complexities of the digital world, I’ve ventured into real-world adventures across 15 countries so far, adding layers of cultural richness to my journey. Website"
+  },
+  {
+    "objectID": "collab/sagar.html",
+    "href": "collab/sagar.html",
+    "title": "Sagar Kafle",
+    "section": "",
+    "text": "Dr. Sagar brings over a decade of experience in agricultural research and development across Nepal and South Asia, with a focus on cereal system intensification and climate-smart, resource-conservation technologies. He has developed significant expertise in technology scaling, scale-appropriate mechanization, market system development, and improving governance within the agricultural sector. He has a deep understanding of how data analytics can enhance farm productivity and profitability at the micro level and inform policy at the macro level. His work is particularly relevant in the South Asia, where complex challenges and limited resources demand innovative solutions."
+  },
+  {
+    "objectID": "collab/nikka.html",
+    "href": "collab/nikka.html",
+    "title": "Hardeep Singh, Ph.D.",
+    "section": "",
+    "text": "Dr. Hardeep is located at the UF/IFAS West Florida Research and Education Center. His research program focuses on developing improved integrated crop fertility management tools and technologies for increasing the sustainability of cropping systems in the Southeast. Much of his work centers on nutrient mineralization and improved nutrient synchronization to increase nutrient use efficiency and reduce losses to the environment. Additionally, his work incorporates enhanced efficiency fertilizers, precision agriculture applications, crop physiological responses to fertility, and utilizing cover crops for improving soil health. Although his focus is on crop fertility, program remains responsive to critical industry needs. This necessitates research on critical topics that affect existing and novel cropping systems for the region, such as disease management, genotype evaluation, basic agronomy, phenology tracking for modeling purposes, and precision agriculture applications."
+  },
+  {
+    "objectID": "collab/kss.html",
+    "href": "collab/kss.html",
+    "title": "KS Subramanianj, Ph.D.",
+    "section": "",
+    "text": "A well-known agricultural nanotechnologist who handled several nanotech projects, evolved 15 nanotechnologies encompassing fruit preservation, provided various nano-enabled agri inputs, diagnostic software for nutrient deficiencies in crops, nano-fertilizers, nano-fibres for multi-input delivery, and a N-sensor for plant health monitoring. He has over 200 publications with an H-index of 37, holds 2 patents, and has received over 15 national/international awards. He is involved in various policymaking organizations such as DBT, DST, ICAR, NASF, and FCO."
+  },
+  {
+    "objectID": "careers.html",
+    "href": "careers.html",
+    "title": "Job openings",
+    "section": "",
+    "text": "Job openings\n\nWe’re looking for a data scientist to be a part of our team. For a detailed job description, please refer to the job bank."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being.\n\n\n\nOur team comprises seasoned agronomists, agricultural scientists, data analysts, and technology experts who bring a wealth of knowledge and experience to the table. United by a common passion for sustainable agriculture, we work collaboratively to deliver personalized and effective solutions for our clients. Our multidisciplinary approach ensures that we address every aspect of your agricultural needs with precision and expertise.\n\n\n\n\nSustainability: We are committed to promoting farming practices that are environmentally sustainable, economically viable, and socially responsible.\nInnovation: We leverage cutting-edge technology and scientific advancements to provide forward-thinking solutions that drive agricultural success.\nIntegrity: We conduct our business with the highest standards of ethics, transparency, and honesty, ensuring trust and reliability in all our interactions.\nCollaboration: We believe in the power of teamwork and partnerships, working closely with our clients and stakeholders to achieve shared goals.\nExcellence: We strive for excellence in everything we do, from our services and solutions to our customer support, ensuring the highest quality outcomes for our clients."
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About Us",
+    "section": "",
+    "text": "At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being."
+  },
+  {
+    "objectID": "about.html#our-team",
+    "href": "about.html#our-team",
+    "title": "About Us",
+    "section": "",
+    "text": "Our team comprises seasoned agronomists, agricultural scientists, data analysts, and technology experts who bring a wealth of knowledge and experience to the table. United by a common passion for sustainable agriculture, we work collaboratively to deliver personalized and effective solutions for our clients. Our multidisciplinary approach ensures that we address every aspect of your agricultural needs with precision and expertise."
+  },
+  {
+    "objectID": "about.html#our-values",
+    "href": "about.html#our-values",
+    "title": "About Us",
+    "section": "",
+    "text": "Sustainability: We are committed to promoting farming practices that are environmentally sustainable, economically viable, and socially responsible.\nInnovation: We leverage cutting-edge technology and scientific advancements to provide forward-thinking solutions that drive agricultural success.\nIntegrity: We conduct our business with the highest standards of ethics, transparency, and honesty, ensuring trust and reliability in all our interactions.\nCollaboration: We believe in the power of teamwork and partnerships, working closely with our clients and stakeholders to achieve shared goals.\nExcellence: We strive for excellence in everything we do, from our services and solutions to our customer support, ensuring the highest quality outcomes for our clients."
   },
   {
     "objectID": "choose.html",
@@ -161,157 +287,276 @@
     "text": "Continuous crop monitoring is essential for maintaining crop health and ensuring optimal growth. Deep resolution imagery allows for real-time monitoring of crop conditions, detecting issues like nutrient deficiencies, water stress, and disease outbreaks promptly. This timely intervention helps in maintaining high crop quality and maximizing yields."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Us",
+    "objectID": "collab/nanda.html",
+    "href": "collab/nanda.html",
+    "title": "Nanda Kumar Maharjan, M.Sc.",
     "section": "",
-    "text": "At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being.\n\n\n\nOur team comprises seasoned agronomists, agricultural scientists, data analysts, and technology experts who bring a wealth of knowledge and experience to the table. United by a common passion for sustainable agriculture, we work collaboratively to deliver personalized and effective solutions for our clients. Our multidisciplinary approach ensures that we address every aspect of your agricultural needs with precision and expertise.\n\n\n\n\nSustainability: We are committed to promoting farming practices that are environmentally sustainable, economically viable, and socially responsible.\nInnovation: We leverage cutting-edge technology and scientific advancements to provide forward-thinking solutions that drive agricultural success.\nIntegrity: We conduct our business with the highest standards of ethics, transparency, and honesty, ensuring trust and reliability in all our interactions.\nCollaboration: We believe in the power of teamwork and partnerships, working closely with our clients and stakeholders to achieve shared goals.\nExcellence: We strive for excellence in everything we do, from our services and solutions to our customer support, ensuring the highest quality outcomes for our clients."
+    "text": "Nanda Kumar Maharjan has six years of experiences in development sector, demonstrating leadership roles in implementation of livelihood projects in Udayapur, Salyan, Gorkha, Rasuwa and Surkhet districts of Nepal. He has gained vast experience in designing, implementing and monitoring development projects for the improvement of livelihood of the communities while working with WOREC Nepal as Livelihood Officer and Livelihood Coordinator with CARDSN, Nuwakot. He also worked as a consultant for Nepal Coffee Producers Association and developed survey tools for coffee farmers profiling, assess the impact of climate change on coffee producers and central coffee collecting and processing centers infrastructure analysis. He has also worked in food system and market surveillance of agricultural commodities in coordination with International Food Policy Research Institute (IFPRI)."
   },
   {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About Us",
+    "objectID": "collab/prakash.html",
+    "href": "collab/prakash.html",
+    "title": "Prakash Kumar Jha, Ph.D.",
     "section": "",
-    "text": "At Sustainable Future, our mission is to empower farmers and agricultural businesses with innovative and data-driven solutions that enhance productivity, resilience, and profitability. We are dedicated to fostering sustainable farming practices that not only ensure food security but also contribute to environmental conservation and community well-being."
+    "text": "My research interest focuses on investigating the influence of agronomic management on crop growth and development. I seek to understand complexities in agricultural systems, integrating crop simulation models, remote sensing and climate forecast to formulate decision support system for better management strategies of inputs in crop production system."
   },
   {
-    "objectID": "about.html#our-team",
-    "href": "about.html#our-team",
-    "title": "About Us",
+    "objectID": "collab/saini.html",
+    "href": "collab/saini.html",
+    "title": "Rohit Saini, Ph.D.",
     "section": "",
-    "text": "Our team comprises seasoned agronomists, agricultural scientists, data analysts, and technology experts who bring a wealth of knowledge and experience to the table. United by a common passion for sustainable agriculture, we work collaboratively to deliver personalized and effective solutions for our clients. Our multidisciplinary approach ensures that we address every aspect of your agricultural needs with precision and expertise."
+    "text": "My research focuses on quantifying the environmental and economic externalities of rice cultivation, particularly in India. It examines the impact of agricultural practices on natural resources and the economy, with an emphasis on trade dynamics, analyzing India’s rice exports and imports to understand their influence on global markets and sustainability."
   },
   {
-    "objectID": "about.html#our-values",
-    "href": "about.html#our-values",
-    "title": "About Us",
-    "section": "",
-    "text": "Sustainability: We are committed to promoting farming practices that are environmentally sustainable, economically viable, and socially responsible.\nInnovation: We leverage cutting-edge technology and scientific advancements to provide forward-thinking solutions that drive agricultural success.\nIntegrity: We conduct our business with the highest standards of ethics, transparency, and honesty, ensuring trust and reliability in all our interactions.\nCollaboration: We believe in the power of teamwork and partnerships, working closely with our clients and stakeholders to achieve shared goals.\nExcellence: We strive for excellence in everything we do, from our services and solutions to our customer support, ensuring the highest quality outcomes for our clients."
+    "objectID": "collaborators.html#list-of-collaborators-liste-des-collaborateurs",
+    "href": "collaborators.html#list-of-collaborators-liste-des-collaborateurs",
+    "title": "Collaborators",
+    "section": "List of collaborators / Liste des collaborateurs",
+    "text": "List of collaborators / Liste des collaborateurs\n\n\n\n See the complete list"
   },
   {
-    "objectID": "careers.html",
-    "href": "careers.html",
-    "title": "Job openings",
+    "objectID": "ethics.html",
+    "href": "ethics.html",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "Job openings\n\nWe’re looking for a data scientist to be a part of our team. For a detailed job description, please refer to the job bank."
+    "text": "At Sustainable Future, we are committed to conducting business with integrity, transparency, and in compliance with Canadian laws. Our code of ethics outlines the principles that guide our actions in promoting sustainable practices, environmental responsibility, and ethical conduct.\n\n\nWe comply with all applicable federal, provincial, and municipal laws, including those related to environmental standards, labor practices, human rights, and business operations in Canada. Employees and partners are expected to be aware of relevant regulations and ensure their actions reflect legal requirements.\n\n\n\nSustainable Future is committed to minimizing environmental impact. We prioritize sustainability in every aspect of our business, from resource use to waste management. We adhere to the environmental laws of Canada, including the Canadian Environmental Protection Act (CEPA), and aim to exceed compliance by adopting proactive environmental strategies.\nKey Principles: Promote energy efficiency and reduce emissions. Support conservation of natural resources. Comply with environmental regulations at every level.\n\n\n\nWe promote honesty and transparency in all interactions, both internally and externally. Employees, partners, and stakeholders are expected to act with integrity and uphold the highest ethical standards in decision-making.\nKey Principles: Avoid conflicts of interest and disclose any potential conflicts promptly. Provide accurate, complete, and fair information in all communications. Protect the confidentiality of company and client information.\n\n\n\nWe believe in fostering a diverse and inclusive workplace where every individual is respected. We do not tolerate discrimination or harassment based on race, gender, age, disability, religion, or sexual orientation. This is in line with the Canadian Human Rights Act and provincial human rights codes.\nKey Principles: Promote equal opportunity and fairness in hiring, promotions, and professional development. Create a respectful and harassment-free work environment. Encourage open dialogue and mutual respect among employees.\n\n\n\nSustainable Future is committed to maintaining a safe and healthy work environment for all employees. We adhere to the Occupational Health and Safety Act (OHSA) and other relevant Canadian safety regulations, ensuring that safety standards are integrated into our daily operations.\nKey Principles: Ensure workplace hazards are identified, managed, and mitigated. Provide employees with training and resources to ensure their safety. Encourage reporting of unsafe conditions without fear of retaliation.\n\n\n\nWe are dedicated to being a positive force in the communities in which we operate. We support initiatives that promote environmental sustainability, social justice, and the well-being of Canadians.\nKey Principles: Engage with local communities and support sustainable development initiatives. Encourage volunteerism and participation in community-building activities. Partner with like-minded organizations to advance environmental and social goals.\n\n\n\nSustainable Future operates with zero tolerance for bribery or corruption. We comply with the Corruption of Foreign Public Officials Act (CFPOA) and all Canadian anti-corruption laws. Employees must not offer, accept, or facilitate bribes in any form, including gifts or improper payments.\nKey Principles: Avoid any activity that could be construed as corrupt or unethical. Report any instances of bribery or unethical behavior promptly. Ensure third-party relationships adhere to the same ethical standards.\n\n\n\nWe uphold strong governance practices to ensure accountability, transparency, and ethical decision-making at all levels of the company. Our leadership is committed to providing oversight and guidance, ensuring adherence to ethical principles and legal requirements.\nKey Principles: Ensure financial integrity and responsible reporting in accordance with Canadian securities regulations. Implement internal controls to prevent and detect fraud or misconduct. Uphold the fiduciary responsibilities to stakeholders, including investors and clients.\n\n\n\nWe value the privacy and confidentiality of our employees, partners, and clients. Sustainable Future complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) and ensures that personal data is handled with care and used only for its intended purposes.\nKey Principles: Protect personal information from unauthorized access or disclosure. Use client and employee data in a responsible and lawful manner. Ensure compliance with data protection laws at all times.\n\n\n\nSustainable Future encourages employees to report any violations of this Code of Ethics or legal requirements. Reports can be made anonymously, and no employee will face retaliation for reporting concerns in good faith.\nKey Principles: Encourage open reporting of ethical concerns or legal violations. Ensure all reports are investigated thoroughly and fairly. Provide mechanisms for anonymous reporting."
   },
   {
-    "objectID": "collab/kss.html",
-    "href": "collab/kss.html",
-    "title": "KS Subramanianj, Ph.D.",
+    "objectID": "ethics.html#compliance-with-laws-and-regulations",
+    "href": "ethics.html#compliance-with-laws-and-regulations",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "A well-known agricultural nanotechnologist who handled several nanotech projects, evolved 15 nanotechnologies encompassing fruit preservation, provided various nano-enabled agri inputs, diagnostic software for nutrient deficiencies in crops, nano-fertilizers, nano-fibres for multi-input delivery, and a N-sensor for plant health monitoring. He has over 200 publications with an H-index of 37, holds 2 patents, and has received over 15 national/international awards. He is involved in various policymaking organizations such as DBT, DST, ICAR, NASF, and FCO."
+    "text": "We comply with all applicable federal, provincial, and municipal laws, including those related to environmental standards, labor practices, human rights, and business operations in Canada. Employees and partners are expected to be aware of relevant regulations and ensure their actions reflect legal requirements."
   },
   {
-    "objectID": "collab/nikka.html",
-    "href": "collab/nikka.html",
-    "title": "Hardeep Singh, Ph.D.",
+    "objectID": "ethics.html#environmental-responsibility",
+    "href": "ethics.html#environmental-responsibility",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "Dr. Hardeep is located at the UF/IFAS West Florida Research and Education Center. His research program focuses on developing improved integrated crop fertility management tools and technologies for increasing the sustainability of cropping systems in the Southeast. Much of his work centers on nutrient mineralization and improved nutrient synchronization to increase nutrient use efficiency and reduce losses to the environment. Additionally, his work incorporates enhanced efficiency fertilizers, precision agriculture applications, crop physiological responses to fertility, and utilizing cover crops for improving soil health. Although his focus is on crop fertility, program remains responsive to critical industry needs. This necessitates research on critical topics that affect existing and novel cropping systems for the region, such as disease management, genotype evaluation, basic agronomy, phenology tracking for modeling purposes, and precision agriculture applications."
+    "text": "Sustainable Future is committed to minimizing environmental impact. We prioritize sustainability in every aspect of our business, from resource use to waste management. We adhere to the environmental laws of Canada, including the Canadian Environmental Protection Act (CEPA), and aim to exceed compliance by adopting proactive environmental strategies.\nKey Principles: Promote energy efficiency and reduce emissions. Support conservation of natural resources. Comply with environmental regulations at every level."
   },
   {
-    "objectID": "collab/sagar.html",
-    "href": "collab/sagar.html",
-    "title": "Sagar Kafle",
+    "objectID": "ethics.html#integrity-and-honesty",
+    "href": "ethics.html#integrity-and-honesty",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "Dr. Sagar brings over a decade of experience in agricultural research and development across Nepal and South Asia, with a focus on cereal system intensification and climate-smart, resource-conservation technologies. He has developed significant expertise in technology scaling, scale-appropriate mechanization, market system development, and improving governance within the agricultural sector. He has a deep understanding of how data analytics can enhance farm productivity and profitability at the micro level and inform policy at the macro level. His work is particularly relevant in the South Asia, where complex challenges and limited resources demand innovative solutions."
+    "text": "We promote honesty and transparency in all interactions, both internally and externally. Employees, partners, and stakeholders are expected to act with integrity and uphold the highest ethical standards in decision-making.\nKey Principles: Avoid conflicts of interest and disclose any potential conflicts promptly. Provide accurate, complete, and fair information in all communications. Protect the confidentiality of company and client information."
   },
   {
-    "objectID": "collab/salman.html",
-    "href": "collab/salman.html",
-    "title": "Salman Naqvi",
+    "objectID": "ethics.html#fair-treatment-and-diversity",
+    "href": "ethics.html#fair-treatment-and-diversity",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "A curious soul navigating the realms of AI, exploring the intricacies of Mandarin, fueled by an insatiable passion for learning. A devoted aficionado of science and technology, proudly wearing the badge of a “sci-tech geek”. In addition to unraveling the complexities of the digital world, I’ve ventured into real-world adventures across 15 countries so far, adding layers of cultural richness to my journey. Website"
+    "text": "We believe in fostering a diverse and inclusive workplace where every individual is respected. We do not tolerate discrimination or harassment based on race, gender, age, disability, religion, or sexual orientation. This is in line with the Canadian Human Rights Act and provincial human rights codes.\nKey Principles: Promote equal opportunity and fairness in hiring, promotions, and professional development. Create a respectful and harassment-free work environment. Encourage open dialogue and mutual respect among employees."
   },
   {
-    "objectID": "contact2.html",
-    "href": "contact2.html",
-    "title": "Contact Us",
+    "objectID": "ethics.html#health-and-safety",
+    "href": "ethics.html#health-and-safety",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "We’d love to hear from you! Whether you have a question about our services, feedback, or need support, our team is here to help.\n\n\nEmail: info@sustainable-future.ca\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada\n\n\n\nFor your convenience, you can also fill out the form below, and we will get back to you as soon as possible.\n Contact us / Contactez-nous \n\n\n\nVisit our office at the location below:"
+    "text": "Sustainable Future is committed to maintaining a safe and healthy work environment for all employees. We adhere to the Occupational Health and Safety Act (OHSA) and other relevant Canadian safety regulations, ensuring that safety standards are integrated into our daily operations.\nKey Principles: Ensure workplace hazards are identified, managed, and mitigated. Provide employees with training and resources to ensure their safety. Encourage reporting of unsafe conditions without fear of retaliation."
   },
   {
-    "objectID": "contact2.html#get-in-touch",
-    "href": "contact2.html#get-in-touch",
-    "title": "Contact Us",
+    "objectID": "ethics.html#social-responsibility",
+    "href": "ethics.html#social-responsibility",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "Email: info@sustainable-future.ca\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada"
+    "text": "We are dedicated to being a positive force in the communities in which we operate. We support initiatives that promote environmental sustainability, social justice, and the well-being of Canadians.\nKey Principles: Engage with local communities and support sustainable development initiatives. Encourage volunteerism and participation in community-building activities. Partner with like-minded organizations to advance environmental and social goals."
   },
   {
-    "objectID": "contact2.html#contact-form",
-    "href": "contact2.html#contact-form",
-    "title": "Contact Us",
+    "objectID": "ethics.html#anti-bribery-and-corruption",
+    "href": "ethics.html#anti-bribery-and-corruption",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "For your convenience, you can also fill out the form below, and we will get back to you as soon as possible.\n Contact us / Contactez-nous"
+    "text": "Sustainable Future operates with zero tolerance for bribery or corruption. We comply with the Corruption of Foreign Public Officials Act (CFPOA) and all Canadian anti-corruption laws. Employees must not offer, accept, or facilitate bribes in any form, including gifts or improper payments.\nKey Principles: Avoid any activity that could be construed as corrupt or unethical. Report any instances of bribery or unethical behavior promptly. Ensure third-party relationships adhere to the same ethical standards."
   },
   {
-    "objectID": "contact2.html#map",
-    "href": "contact2.html#map",
-    "title": "Contact Us",
+    "objectID": "ethics.html#corporate-governance-and-accountability",
+    "href": "ethics.html#corporate-governance-and-accountability",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "Visit our office at the location below:"
+    "text": "We uphold strong governance practices to ensure accountability, transparency, and ethical decision-making at all levels of the company. Our leadership is committed to providing oversight and guidance, ensuring adherence to ethical principles and legal requirements.\nKey Principles: Ensure financial integrity and responsible reporting in accordance with Canadian securities regulations. Implement internal controls to prevent and detect fraud or misconduct. Uphold the fiduciary responsibilities to stakeholders, including investors and clients."
   },
   {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Our Services",
+    "objectID": "ethics.html#confidentiality-and-data-protection",
+    "href": "ethics.html#confidentiality-and-data-protection",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "Protect your investment with our tailored crop insurance plans. We analyze historical data and predictive models to offer coverage that best suits your needs, minimizing risks associated with unpredictable weather and market conditions.\n\n\n\nOptimize your farm’s potential by diversifying your crops. Our data-driven approach helps you select the best crops for your soil and climate, enhancing resilience and profitability.\n\n\n\nOur expert agronomists provide personalized advice on soil health, crop nutrition, and pest management. We use cutting-edge technology to ensure your crops get the right nutrients at the right time.\n\n\n\nChoose the right seeds for your specific needs. We offer guidance on seed selection based on your soil type, climate conditions, and market demand, ensuring robust and profitable crops.\n\n\n\nSustainably manage your forested lands with our forest care services. We provide strategies for maintaining healthy forests, preventing diseases, and maximizing timber production.\n\n\n\nAddress and remediate contaminated sites with our expert guidance. We offer solutions to manage soil contamination, ensuring safe and productive land use.\n\n\n\nOur team of seasoned agronomists and agricultural scientists is dedicated to providing the best advice and solutions for your farming needs.\n\n\n\nFrom crop insurance to forest care, we offer a wide range of services designed to support every aspect of your agricultural operation."
+    "text": "We value the privacy and confidentiality of our employees, partners, and clients. Sustainable Future complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) and ensures that personal data is handled with care and used only for its intended purposes.\nKey Principles: Protect personal information from unauthorized access or disclosure. Use client and employee data in a responsible and lawful manner. Ensure compliance with data protection laws at all times."
   },
   {
-    "objectID": "services.html#crop-insurance",
-    "href": "services.html#crop-insurance",
-    "title": "Our Services",
+    "objectID": "ethics.html#reporting-violations",
+    "href": "ethics.html#reporting-violations",
+    "title": "Code of Ethics for Sustainable Future",
     "section": "",
-    "text": "Protect your investment with our tailored crop insurance plans. We analyze historical data and predictive models to offer coverage that best suits your needs, minimizing risks associated with unpredictable weather and market conditions."
+    "text": "Sustainable Future encourages employees to report any violations of this Code of Ethics or legal requirements. Reports can be made anonymously, and no employee will face retaliation for reporting concerns in good faith.\nKey Principles: Encourage open reporting of ethical concerns or legal violations. Ensure all reports are investigated thoroughly and fairly. Provide mechanisms for anonymous reporting."
   },
   {
-    "objectID": "services.html#crop-diversification",
-    "href": "services.html#crop-diversification",
-    "title": "Our Services",
+    "objectID": "policy.html",
+    "href": "policy.html",
+    "title": "Sustainable Future Privacy Policy",
     "section": "",
-    "text": "Optimize your farm’s potential by diversifying your crops. Our data-driven approach helps you select the best crops for your soil and climate, enhancing resilience and profitability."
+    "text": "At Sustainable Future, we value the privacy of your personal information. This Privacy Policy outlines how we collect, use, disclose, and protect your data in compliance with the Personal Information Protection and Electronic Documents Act (PIPEDA) and other applicable Canadian laws.\n\n\nWe collect personal information solely for legitimate business purposes. The information we may collect includes, but is not limited to:\nContact Information: Name, address, phone number, email. Financial Information: Payment information required for billing our services. Business Information: Details about your company if you are working with us. Technical Information: IP addresses, browsing data, cookies, etc., collected when you use our website. Consent: We collect personal information with your consent. By providing your information, you agree to its use as outlined in this Privacy Policy.\n\n\n\nWe use the personal information collected for the following purposes:\nService Delivery: To manage and fulfill contracts with our clients. Communication: To respond to inquiries and provide information about our products and services. Billing and Payments: To process financial transactions. Website and Service Improvement: To analyze website usage and improve the user experience. Legal Compliance: To meet legal and regulatory requirements. We are committed to using personal information only for legitimate purposes and in accordance with applicable laws.\n\n\n\nWe do not disclose your personal information to third parties without your consent, except in the following circumstances:\nThird-Party Service Providers: We may share information with partners or vendors who help us deliver services (e.g., payment processing, website hosting). Legal Obligations: We may be required to disclose your personal information if mandated by law or to respond to legitimate government requests. Mergers or Acquisitions: In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new entity. We ensure that all third parties comply with applicable privacy laws and security standards.\n\n\n\nWe retain personal information for as long as necessary to fulfill the purposes described in this policy or as required by law. When information is no longer needed, we securely destroy or anonymize it.\n\n\n\nWe take appropriate security measures to protect your personal information from unauthorized access, loss, disclosure, or alteration. These measures include:\nAccess Controls: Limiting access to employees and vendors who need the information to perform their duties. Encryption: Protecting sensitive data during transmission over the internet. Monitoring: Regularly assessing our systems to detect and prevent data breaches. While we take reasonable precautions, no method of transmission or storage is completely secure, and we cannot guarantee absolute security.\n\n\n\nOur website uses cookies and similar technologies to enhance your user experience. Cookies are small files stored on your device that allow us to collect information such as your IP address and browsing habits.\nTypes of cookies we use: Essential Cookies: Necessary for the website’s functionality. Performance Cookies: Used to analyze site usage and improve its functionality. Marketing Cookies: Allow us to provide tailored content and advertisements. You can configure your browser to refuse or delete cookies, but this may affect some website functionalities.\n\n\n\nUnder PIPEDA and other Canadian laws, you have the following rights regarding your personal information:\nAccess: You can request access to the personal information we hold about you. Correction: You have the right to correct any inaccurate or incomplete information. Withdrawal of Consent: You may withdraw your consent for the use of your personal information at any time, subject to legal or contractual restrictions. Deletion: You can request the deletion of your information, subject to legal obligations requiring its retention. To exercise these rights, please contact us using the information provided below.\n\n\n\nSustainable Future may transfer your personal information to service providers located outside of Canada. In such cases, we ensure that appropriate safeguards are in place to provide an equivalent level of protection as required by Canadian privacy laws.\n\n\n\nWe may update this Privacy Policy from time to time to reflect changes in our practices or to comply with legal developments. Any changes will be posted on our website, and we will indicate the date of the latest update.\n\n\n\nIf you have any questions or concerns about this Privacy Policy or how we handle your personal information, please contact us at:\nEmail: info@sustainable-future.ca\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada"
   },
   {
-    "objectID": "services.html#agronomy-consultation",
-    "href": "services.html#agronomy-consultation",
-    "title": "Our Services",
+    "objectID": "policy.html#collection-of-personal-information",
+    "href": "policy.html#collection-of-personal-information",
+    "title": "Sustainable Future Privacy Policy",
     "section": "",
-    "text": "Our expert agronomists provide personalized advice on soil health, crop nutrition, and pest management. We use cutting-edge technology to ensure your crops get the right nutrients at the right time."
+    "text": "We collect personal information solely for legitimate business purposes. The information we may collect includes, but is not limited to:\nContact Information: Name, address, phone number, email. Financial Information: Payment information required for billing our services. Business Information: Details about your company if you are working with us. Technical Information: IP addresses, browsing data, cookies, etc., collected when you use our website. Consent: We collect personal information with your consent. By providing your information, you agree to its use as outlined in this Privacy Policy."
   },
   {
-    "objectID": "services.html#seed-diversification",
-    "href": "services.html#seed-diversification",
-    "title": "Our Services",
+    "objectID": "policy.html#use-of-personal-information",
+    "href": "policy.html#use-of-personal-information",
+    "title": "Sustainable Future Privacy Policy",
     "section": "",
-    "text": "Choose the right seeds for your specific needs. We offer guidance on seed selection based on your soil type, climate conditions, and market demand, ensuring robust and profitable crops."
+    "text": "We use the personal information collected for the following purposes:\nService Delivery: To manage and fulfill contracts with our clients. Communication: To respond to inquiries and provide information about our products and services. Billing and Payments: To process financial transactions. Website and Service Improvement: To analyze website usage and improve the user experience. Legal Compliance: To meet legal and regulatory requirements. We are committed to using personal information only for legitimate purposes and in accordance with applicable laws."
   },
   {
-    "objectID": "services.html#forest-care",
-    "href": "services.html#forest-care",
-    "title": "Our Services",
+    "objectID": "policy.html#disclosure-of-personal-information",
+    "href": "policy.html#disclosure-of-personal-information",
+    "title": "Sustainable Future Privacy Policy",
     "section": "",
-    "text": "Sustainably manage your forested lands with our forest care services. We provide strategies for maintaining healthy forests, preventing diseases, and maximizing timber production."
+    "text": "We do not disclose your personal information to third parties without your consent, except in the following circumstances:\nThird-Party Service Providers: We may share information with partners or vendors who help us deliver services (e.g., payment processing, website hosting). Legal Obligations: We may be required to disclose your personal information if mandated by law or to respond to legitimate government requests. Mergers or Acquisitions: In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new entity. We ensure that all third parties comply with applicable privacy laws and security standards."
   },
   {
-    "objectID": "services.html#contaminated-site-solutions",
-    "href": "services.html#contaminated-site-solutions",
-    "title": "Our Services",
+    "objectID": "policy.html#retention-of-personal-information",
+    "href": "policy.html#retention-of-personal-information",
+    "title": "Sustainable Future Privacy Policy",
     "section": "",
-    "text": "Address and remediate contaminated sites with our expert guidance. We offer solutions to manage soil contamination, ensuring safe and productive land use."
+    "text": "We retain personal information for as long as necessary to fulfill the purposes described in this policy or as required by law. When information is no longer needed, we securely destroy or anonymize it."
   },
   {
-    "objectID": "services.html#expert-consultation",
-    "href": "services.html#expert-consultation",
-    "title": "Our Services",
+    "objectID": "policy.html#security-of-personal-information",
+    "href": "policy.html#security-of-personal-information",
+    "title": "Sustainable Future Privacy Policy",
     "section": "",
-    "text": "Our team of seasoned agronomists and agricultural scientists is dedicated to providing the best advice and solutions for your farming needs."
+    "text": "We take appropriate security measures to protect your personal information from unauthorized access, loss, disclosure, or alteration. These measures include:\nAccess Controls: Limiting access to employees and vendors who need the information to perform their duties. Encryption: Protecting sensitive data during transmission over the internet. Monitoring: Regularly assessing our systems to detect and prevent data breaches. While we take reasonable precautions, no method of transmission or storage is completely secure, and we cannot guarantee absolute security."
   },
   {
-    "objectID": "services.html#comprehensive-coverage",
-    "href": "services.html#comprehensive-coverage",
-    "title": "Our Services",
+    "objectID": "policy.html#cookies-and-tracking-technologies",
+    "href": "policy.html#cookies-and-tracking-technologies",
+    "title": "Sustainable Future Privacy Policy",
     "section": "",
-    "text": "From crop insurance to forest care, we offer a wide range of services designed to support every aspect of your agricultural operation."
+    "text": "Our website uses cookies and similar technologies to enhance your user experience. Cookies are small files stored on your device that allow us to collect information such as your IP address and browsing habits.\nTypes of cookies we use: Essential Cookies: Necessary for the website’s functionality. Performance Cookies: Used to analyze site usage and improve its functionality. Marketing Cookies: Allow us to provide tailored content and advertisements. You can configure your browser to refuse or delete cookies, but this may affect some website functionalities."
+  },
+  {
+    "objectID": "policy.html#user-rights",
+    "href": "policy.html#user-rights",
+    "title": "Sustainable Future Privacy Policy",
+    "section": "",
+    "text": "Under PIPEDA and other Canadian laws, you have the following rights regarding your personal information:\nAccess: You can request access to the personal information we hold about you. Correction: You have the right to correct any inaccurate or incomplete information. Withdrawal of Consent: You may withdraw your consent for the use of your personal information at any time, subject to legal or contractual restrictions. Deletion: You can request the deletion of your information, subject to legal obligations requiring its retention. To exercise these rights, please contact us using the information provided below."
+  },
+  {
+    "objectID": "policy.html#international-data-transfers",
+    "href": "policy.html#international-data-transfers",
+    "title": "Sustainable Future Privacy Policy",
+    "section": "",
+    "text": "Sustainable Future may transfer your personal information to service providers located outside of Canada. In such cases, we ensure that appropriate safeguards are in place to provide an equivalent level of protection as required by Canadian privacy laws."
+  },
+  {
+    "objectID": "policy.html#changes-to-the-privacy-policy",
+    "href": "policy.html#changes-to-the-privacy-policy",
+    "title": "Sustainable Future Privacy Policy",
+    "section": "",
+    "text": "We may update this Privacy Policy from time to time to reflect changes in our practices or to comply with legal developments. Any changes will be posted on our website, and we will indicate the date of the latest update."
+  },
+  {
+    "objectID": "policy.html#contact",
+    "href": "policy.html#contact",
+    "title": "Sustainable Future Privacy Policy",
+    "section": "",
+    "text": "If you have any questions or concerns about this Privacy Policy or how we handle your personal information, please contact us at:\nEmail: info@sustainable-future.ca\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada"
+  },
+  {
+    "objectID": "terms.html",
+    "href": "terms.html",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "Effective Date: [July, 2024]\nWelcome to Sustainable Future. These Terms of Service (“Terms”) govern your use of our website and services. By accessing or using our services, you agree to comply with these Terms. If you do not agree, please refrain from using our services.\n\n\nBy accessing and using our website or services, you acknowledge that you have read, understood, and agree to be bound by these Terms. This agreement is governed by the laws of Canada, particularly the Canadian Consumer Protection Law and Personal Information Protection and Electronic Documents Act (PIPEDA).\n\n\n\nTo use our services, you must be at least 18 years old or have reached the age of majority in your province or territory of residence. By using the site, you represent that you meet this requirement.\n\n\n\nSustainable Future reserves the right to modify these Terms at any time. Any changes will be effective upon posting the updated Terms on our website. It is your responsibility to review these Terms periodically. Continued use of the site after such modifications constitutes acceptance of the changes.\n\n\n\n\n\nYou may use our website and services for lawful purposes only. You agree not to:\nEngage in any unlawful activity or use the services for fraudulent purposes. Violate any local, provincial, or federal laws or regulations. Copy, reproduce, or distribute any content or intellectual property from our site without permission.\n\n\n\nYou agree not to:\nUpload or transmit any harmful, disruptive, or malicious code (e.g., viruses). Interfere with the functionality or security of the site or attempt to gain unauthorized access. Harass, abuse, or harm others through your interactions on our platform.\n\n\n\n\nAll content on the Sustainable Future website, including text, graphics, logos, and software, is the intellectual property of Sustainable Future or its licensors. You may not reproduce, distribute, modify, or use this content for commercial purposes without prior written permission.\n\n\n\nYour use of our services is subject to our Privacy Policy, which is incorporated by reference into these Terms. By using our services, you agree to the collection, use, and sharing of your information as described in our Privacy Policy, in accordance with Canadian privacy laws.\n\n\n\nOur services may contain links to third-party websites or services that are not owned or controlled by Sustainable Future. We are not responsible for the content, privacy policies, or practices of these third-party services. You access these services at your own risk.\n\n\n\n\nDisclaimers Sustainable Future provides its services on an “as-is” and “as-available” basis, without warranties of any kind, either express or implied. We do not guarantee that the website or services will be error-free, secure, or uninterrupted, nor do we make any warranties regarding the accuracy, reliability, or completeness of any content.\nLimitation of Liability To the fullest extent permitted by law, Sustainable Future shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of or related to your use of the website or services. This includes damages for loss of profits, data, or other intangible losses.\nIndemnification You agree to indemnify and hold Sustainable Future harmless from any claims, damages, or expenses arising from your use of the website or services, your violation of these Terms, or your infringement of any rights of another party.\n\n\n\n\nSustainable Future reserves the right to terminate or suspend your access to our services at any time, for any reason, including if you violate these Terms or engage in prohibited conduct. Upon termination, you must cease all use of our services and destroy any copies of materials obtained through the site.\n\n\n\nThese Terms shall be governed by and construed in accordance with the laws of Canada and the applicable laws of your province or territory of residence. Any disputes arising out of these Terms or your use of the services shall be subject to the exclusive jurisdiction of the courts located in Canada.\n\n\n\nIf any provision of these Terms is found to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions will remain in full force and effect.\n\n\n\nIf you have any questions or concerns about these Terms or our services, please contact us at:\nSustainable Future\nEmail: info@sustainable-future.ca\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada"
+  },
+  {
+    "objectID": "terms.html#acceptance-of-terms",
+    "href": "terms.html#acceptance-of-terms",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "By accessing and using our website or services, you acknowledge that you have read, understood, and agree to be bound by these Terms. This agreement is governed by the laws of Canada, particularly the Canadian Consumer Protection Law and Personal Information Protection and Electronic Documents Act (PIPEDA)."
+  },
+  {
+    "objectID": "terms.html#eligibility",
+    "href": "terms.html#eligibility",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "To use our services, you must be at least 18 years old or have reached the age of majority in your province or territory of residence. By using the site, you represent that you meet this requirement."
+  },
+  {
+    "objectID": "terms.html#modifications-to-the-terms",
+    "href": "terms.html#modifications-to-the-terms",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "Sustainable Future reserves the right to modify these Terms at any time. Any changes will be effective upon posting the updated Terms on our website. It is your responsibility to review these Terms periodically. Continued use of the site after such modifications constitutes acceptance of the changes."
+  },
+  {
+    "objectID": "terms.html#use-of-the-services",
+    "href": "terms.html#use-of-the-services",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "You may use our website and services for lawful purposes only. You agree not to:\nEngage in any unlawful activity or use the services for fraudulent purposes. Violate any local, provincial, or federal laws or regulations. Copy, reproduce, or distribute any content or intellectual property from our site without permission.\n\n\n\nYou agree not to:\nUpload or transmit any harmful, disruptive, or malicious code (e.g., viruses). Interfere with the functionality or security of the site or attempt to gain unauthorized access. Harass, abuse, or harm others through your interactions on our platform."
+  },
+  {
+    "objectID": "terms.html#intellectual-property",
+    "href": "terms.html#intellectual-property",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "All content on the Sustainable Future website, including text, graphics, logos, and software, is the intellectual property of Sustainable Future or its licensors. You may not reproduce, distribute, modify, or use this content for commercial purposes without prior written permission."
+  },
+  {
+    "objectID": "terms.html#privacy",
+    "href": "terms.html#privacy",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "Your use of our services is subject to our Privacy Policy, which is incorporated by reference into these Terms. By using our services, you agree to the collection, use, and sharing of your information as described in our Privacy Policy, in accordance with Canadian privacy laws."
+  },
+  {
+    "objectID": "terms.html#third-party-services",
+    "href": "terms.html#third-party-services",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "Our services may contain links to third-party websites or services that are not owned or controlled by Sustainable Future. We are not responsible for the content, privacy policies, or practices of these third-party services. You access these services at your own risk."
+  },
+  {
+    "objectID": "terms.html#disclaimers-and-limitation-of-liability",
+    "href": "terms.html#disclaimers-and-limitation-of-liability",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "Disclaimers Sustainable Future provides its services on an “as-is” and “as-available” basis, without warranties of any kind, either express or implied. We do not guarantee that the website or services will be error-free, secure, or uninterrupted, nor do we make any warranties regarding the accuracy, reliability, or completeness of any content.\nLimitation of Liability To the fullest extent permitted by law, Sustainable Future shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of or related to your use of the website or services. This includes damages for loss of profits, data, or other intangible losses.\nIndemnification You agree to indemnify and hold Sustainable Future harmless from any claims, damages, or expenses arising from your use of the website or services, your violation of these Terms, or your infringement of any rights of another party."
+  },
+  {
+    "objectID": "terms.html#termination-of-services",
+    "href": "terms.html#termination-of-services",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "Sustainable Future reserves the right to terminate or suspend your access to our services at any time, for any reason, including if you violate these Terms or engage in prohibited conduct. Upon termination, you must cease all use of our services and destroy any copies of materials obtained through the site."
+  },
+  {
+    "objectID": "terms.html#governing-law-and-jurisdiction",
+    "href": "terms.html#governing-law-and-jurisdiction",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "These Terms shall be governed by and construed in accordance with the laws of Canada and the applicable laws of your province or territory of residence. Any disputes arising out of these Terms or your use of the services shall be subject to the exclusive jurisdiction of the courts located in Canada."
+  },
+  {
+    "objectID": "terms.html#severability",
+    "href": "terms.html#severability",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "If any provision of these Terms is found to be invalid or unenforceable by a court of competent jurisdiction, the remaining provisions will remain in full force and effect."
+  },
+  {
+    "objectID": "terms.html#contact-information",
+    "href": "terms.html#contact-information",
+    "title": "Sustainable Future Terms of Service",
+    "section": "",
+    "text": "If you have any questions or concerns about these Terms or our services, please contact us at:\nSustainable Future\nEmail: info@sustainable-future.ca\nAddress:\nSustainable Future\n63 5e Avenue, Pincourt, Québec, J7W 5K8 Canada"
   }
 ]

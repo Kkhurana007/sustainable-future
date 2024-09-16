@@ -1,0 +1,172 @@
+---
+# title: Code of 
+---
+
+
+::: {.content-visible when-profile="english"}
+
+# Code of Ethics for Sustainable Future
+
+At Sustainable Future, we are committed to conducting business with integrity, transparency, and in compliance with Canadian laws. Our code of ethics outlines the principles that guide our actions in promoting sustainable practices, environmental responsibility, and ethical conduct.
+
+## 1. Compliance with Laws and Regulations
+We comply with all applicable federal, provincial, and municipal laws, including those related to environmental standards, labor practices, human rights, and business operations in Canada. Employees and partners are expected to be aware of relevant regulations and ensure their actions reflect legal requirements.
+
+## 2. Environmental Responsibility
+Sustainable Future is committed to minimizing environmental impact. We prioritize sustainability in every aspect of our business, from resource use to waste management. We adhere to the environmental laws of Canada, including the Canadian Environmental Protection Act (CEPA), and aim to exceed compliance by adopting proactive environmental strategies.
+
+Key Principles:
+Promote energy efficiency and reduce emissions.
+Support conservation of natural resources.
+Comply with environmental regulations at every level.
+
+
+## 3. Integrity and Honesty
+We promote honesty and transparency in all interactions, both internally and externally. Employees, partners, and stakeholders are expected to act with integrity and uphold the highest ethical standards in decision-making.
+
+Key Principles:
+Avoid conflicts of interest and disclose any potential conflicts promptly.
+Provide accurate, complete, and fair information in all communications.
+Protect the confidentiality of company and client information.
+
+## 4. Fair Treatment and Diversity
+We believe in fostering a diverse and inclusive workplace where every individual is respected. We do not tolerate discrimination or harassment based on race, gender, age, disability, religion, or sexual orientation. This is in line with the Canadian Human Rights Act and provincial human rights codes.
+
+Key Principles:
+Promote equal opportunity and fairness in hiring, promotions, and professional development.
+Create a respectful and harassment-free work environment.
+Encourage open dialogue and mutual respect among employees.
+
+## 5. Health and Safety
+Sustainable Future is committed to maintaining a safe and healthy work environment for all employees. We adhere to the Occupational Health and Safety Act (OHSA) and other relevant Canadian safety regulations, ensuring that safety standards are integrated into our daily operations.
+
+Key Principles:
+Ensure workplace hazards are identified, managed, and mitigated.
+Provide employees with training and resources to ensure their safety.
+Encourage reporting of unsafe conditions without fear of retaliation.
+
+## 6. Social Responsibility
+We are dedicated to being a positive force in the communities in which we operate. We support initiatives that promote environmental sustainability, social justice, and the well-being of Canadians.
+
+Key Principles:
+Engage with local communities and support sustainable development initiatives.
+Encourage volunteerism and participation in community-building activities.
+Partner with like-minded organizations to advance environmental and social goals.
+
+## 7. Anti-Bribery and Corruption
+Sustainable Future operates with zero tolerance for bribery or corruption. We comply with the Corruption of Foreign Public Officials Act (CFPOA) and all Canadian anti-corruption laws. Employees must not offer, accept, or facilitate bribes in any form, including gifts or improper payments.
+
+Key Principles:
+Avoid any activity that could be construed as corrupt or unethical.
+Report any instances of bribery or unethical behavior promptly.
+Ensure third-party relationships adhere to the same ethical standards.
+
+## 8. Corporate Governance and Accountability
+We uphold strong governance practices to ensure accountability, transparency, and ethical decision-making at all levels of the company. Our leadership is committed to providing oversight and guidance, ensuring adherence to ethical principles and legal requirements.
+
+Key Principles:
+Ensure financial integrity and responsible reporting in accordance with Canadian securities regulations.
+Implement internal controls to prevent and detect fraud or misconduct.
+Uphold the fiduciary responsibilities to stakeholders, including investors and clients.
+
+## 9. Confidentiality and Data Protection
+We value the privacy and confidentiality of our employees, partners, and clients. Sustainable Future complies with the Personal Information Protection and Electronic Documents Act (PIPEDA) and ensures that personal data is handled with care and used only for its intended purposes.
+
+Key Principles:
+Protect personal information from unauthorized access or disclosure.
+Use client and employee data in a responsible and lawful manner.
+Ensure compliance with data protection laws at all times.
+
+## 10. Reporting Violations
+Sustainable Future encourages employees to report any violations of this Code of Ethics or legal requirements. Reports can be made anonymously, and no employee will face retaliation for reporting concerns in good faith.
+
+Key Principles:
+Encourage open reporting of ethical concerns or legal violations.
+Ensure all reports are investigated thoroughly and fairly.
+Provide mechanisms for anonymous reporting.
+
+
+:::
+
+::: {.content-visible when-profile="french"}
+
+# Code d'éthique d'Avenir Durable
+
+Chez Sustainable Future, nous nous engageons à mener nos activités avec intégrité, transparence et en conformité avec les lois canadiennes. Ce code d'éthique décrit les principes qui guident nos actions pour promouvoir des pratiques durables, la responsabilité environnementale et un comportement éthique.
+
+## 1. Conformité aux lois et règlements
+Nous respectons toutes les lois fédérales, provinciales et municipales applicables, y compris celles relatives aux normes environnementales, aux pratiques de travail, aux droits de la personne et aux opérations commerciales au Canada. Les employés et partenaires doivent être conscients des règlements pertinents et s'assurer que leurs actions reflètent les exigences légales.
+
+## 2. Responsabilité environnementale
+Sustainable Future s'engage à minimiser son impact sur l'environnement. Nous privilégions la durabilité dans tous les aspects de notre activité, de l'utilisation des ressources à la gestion des déchets. Nous respectons les lois environnementales du Canada, notamment la Loi canadienne sur la protection de l'environnement (LCPE), et cherchons à dépasser les normes en adoptant des stratégies environnementales proactives.
+
+Principes clés :
+Promouvoir l'efficacité énergétique et réduire les émissions.
+Soutenir la conservation des ressources naturelles.
+Respecter les règlements environnementaux à tous les niveaux.
+
+## 3. Intégrité et honnêteté
+Nous prônons l'honnêteté et la transparence dans toutes nos interactions, tant internes qu'externes. Les employés, partenaires et parties prenantes sont tenus d'agir avec intégrité et de respecter les plus hauts standards éthiques dans la prise de décisions.
+
+Principes clés :
+Éviter les conflits d'intérêts et signaler tout conflit potentiel sans délai.
+Fournir des informations précises, complètes et honnêtes dans toutes les communications.
+Protéger la confidentialité des informations de l'entreprise et des clients.
+
+## 4. Égalité de traitement et diversité
+Nous croyons en la promotion d'un milieu de travail diversifié et inclusif, où chaque individu est respecté. Nous ne tolérons aucune forme de discrimination ou de harcèlement fondée sur la race, le genre, l'âge, le handicap, la religion ou l'orientation sexuelle. Cela est conforme à la Loi canadienne sur les droits de la personne et aux codes des droits de la personne des provinces.
+
+Principes clés :
+Promouvoir l'égalité des chances et l'équité dans le recrutement, les promotions et le développement professionnel.
+Créer un environnement de travail respectueux et exempt de harcèlement.
+Encourager le dialogue ouvert et le respect mutuel entre les employés.
+
+## 5. Santé et sécurité
+Sustainable Future s'engage à maintenir un environnement de travail sain et sûr pour tous les employés. Nous respectons la Loi sur la santé et la sécurité au travail (LSST) ainsi que les autres règlements canadiens pertinents, en veillant à ce que les normes de sécurité soient intégrées dans nos opérations quotidiennes.
+
+Principes clés :
+Identifier, gérer et atténuer les risques sur le lieu de travail.
+Offrir aux employés la formation et les ressources nécessaires pour assurer leur sécurité.
+Encourager la déclaration des conditions de travail dangereuses sans crainte de représailles.
+
+## 6. Responsabilité sociale
+Nous sommes dédiés à être une force positive dans les communautés où nous opérons. Nous soutenons les initiatives qui favorisent la durabilité environnementale, la justice sociale et le bien-être des Canadiens.
+
+Principes clés :
+S'engager auprès des communautés locales et soutenir les initiatives de développement durable.
+Encourager le bénévolat et la participation aux activités communautaires.
+Collaborer avec des organisations partageant les mêmes valeurs pour promouvoir des objectifs environnementaux et sociaux.
+
+## 7. Lutte contre la corruption et les pots-de-vin
+Sustainable Future adopte une politique de tolérance zéro envers la corruption et les pots-de-vin. Nous respectons la Loi sur la corruption d'agents publics étrangers (LCAPE) et toutes les lois canadiennes contre la corruption. Les employés ne doivent ni offrir, ni accepter, ni faciliter de pots-de-vin, y compris sous la forme de cadeaux ou de paiements illicites.
+
+Principes clés :
+Éviter toute activité pouvant être perçue comme corrompue ou contraire à l'éthique.
+Signaler immédiatement toute tentative de corruption ou de comportement contraire à l'éthique.
+S'assurer que les relations avec les tiers respectent les mêmes standards éthiques.
+
+## 8. Gouvernance d’entreprise et responsabilité
+Nous appliquons des pratiques de gouvernance solides pour garantir la responsabilité, la transparence et la prise de décisions éthiques à tous les niveaux de l'entreprise. Notre direction s'engage à fournir une supervision et des orientations afin de garantir le respect des principes éthiques et des exigences légales.
+
+Principes clés :
+Assurer l'intégrité financière et des rapports responsables conformément aux réglementations canadiennes sur les valeurs mobilières.
+Mettre en œuvre des contrôles internes pour prévenir et détecter la fraude ou les actes répréhensibles.
+Respecter les responsabilités fiduciaires envers les parties prenantes, y compris les investisseurs et les clients.
+
+## 9. Confidentialité et protection des données
+Nous accordons une grande importance à la confidentialité des employés, des partenaires et des clients. Sustainable Future se conforme à la Loi sur la protection des renseignements personnels et les documents électroniques (LPRPDE) et garantit que les données personnelles sont traitées avec soin et utilisées uniquement à des fins légitimes.
+
+Principes clés :
+Protéger les renseignements personnels contre tout accès ou divulgation non autorisés.
+Utiliser les données des clients et des employés de manière responsable et légale.
+Assurer la conformité avec les lois sur la protection des données en tout temps.
+
+## 10. Signalement des violations
+Sustainable Future encourage les employés à signaler toute violation de ce Code d'éthique ou des exigences légales. Les signalements peuvent être anonymes, et aucun employé ne fera l'objet de représailles pour avoir exprimé des préoccupations de bonne foi.
+
+Principes clés :
+Encourager la déclaration ouverte des préoccupations éthiques ou des violations légales.
+Garantir que tous les signalements soient étudiés de manière approfondie et équitable.
+Mettre en place des mécanismes pour des signalements anonymes.
+
+:::
