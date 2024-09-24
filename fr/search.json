@@ -144,7 +144,7 @@
     "href": "contact2.html",
     "title": "Contactez-nous",
     "section": "",
-    "text": "Nous serions ravis de vous entendre! Que vous ayez une question sur nos services, des commentaires, ou besoin de soutien, notre équipe est là pour vous aider.\n\n\nCourriel: info@sustainable-future.ca\n\n\n\nPour votre commodité, vous pouvez également remplir le formulaire ci-dessous, et nous vous répondrons dès que possible.\n Contact us / Contactez-nous \n\n\n\nVisitez notre bureau à l’emplacement ci-dessous:"
+    "text": "Nous serions ravis de vous entendre! Que vous ayez une question sur nos services, des commentaires, ou besoin de soutien, notre équipe est là pour vous aider.\n\n\nCourriel: info@sustainable-future.ca\n\n\n\nPour votre commodité, vous pouvez également remplir le formulaire ci-dessous, et nous vous répondrons dès que possible.\n Contact us / Contactez-nous \n\n\n\nVisitez notre bureau à l’emplacement ci-dessous:\n\n&lt;iframe src=\"https://www.google.com/maps/d/viewer?mid=1QlS1S7Vy2VHJBeSlaaYA_xqp1oKaMng&hl=en&femb=1&ll=46.44047024095807%2C-98.46908135000001&z=5\" width=\"600\" height=\"800\" style=\"position: absolute; z-index: 1;\"&gt;&lt;/iframe&gt;\n&lt;div style=\"position: absolute; top: 10px; left: 10px; width: 100px; height: 20px; background-color: white; z-index: 2;\"&gt;&lt;/div&gt;"
   },
   {
     "objectID": "contact2.html#nous-contacter",
@@ -165,7 +165,7 @@
     "href": "contact2.html#carte",
     "title": "Contactez-nous",
     "section": "",
-    "text": "Visitez notre bureau à l’emplacement ci-dessous:"
+    "text": "Visitez notre bureau à l’emplacement ci-dessous:\n\n&lt;iframe src=\"https://www.google.com/maps/d/viewer?mid=1QlS1S7Vy2VHJBeSlaaYA_xqp1oKaMng&hl=en&femb=1&ll=46.44047024095807%2C-98.46908135000001&z=5\" width=\"600\" height=\"800\" style=\"position: absolute; z-index: 1;\"&gt;&lt;/iframe&gt;\n&lt;div style=\"position: absolute; top: 10px; left: 10px; width: 100px; height: 20px; background-color: white; z-index: 2;\"&gt;&lt;/div&gt;"
   },
   {
     "objectID": "collab/salman.html",
@@ -182,53 +182,11 @@
     "text": "M. Sagar possède plus de dix ans d’expérience dans la recherche et le développement agricoles au Népal et en Asie du Sud, avec une expertise particulière dans l’intensification des systèmes céréaliers et les technologies de conservation des ressources adaptées au climat. Il a également développé des compétences dans le déploiement technologique, la mécanisation à l’échelle appropriée, le développement des systèmes de marché et l’amélioration de la gouvernance dans le secteur agricole. Sagar a une compréhension approfondie de la manière dont l’analyse des données peut être utilisée pour augmenter la productivité et la rentabilité des exploitations agricoles à l’échelle micro, tout en influençant les politiques à l’échelle macro, en particulier dans les pays du Sud où les défis sont multiples et les ressources limitées."
   },
   {
-    "objectID": "collab/nikka.html",
-    "href": "collab/nikka.html",
-    "title": "Hardeep Singh, Ph.D.",
+    "objectID": "collab/nanda.html",
+    "href": "collab/nanda.html",
+    "title": "Nanda Kumar Maharjan, M.Sc.",
     "section": "",
-    "text": "M. Hardeep est basé au UF/IFAS West Florida Research and Education Center. Son programme de recherche se concentre sur le développement d’outils et de technologies améliorés pour la gestion intégrée de la fertilité des cultures, dans le but d’accroître la durabilité des systèmes de culture dans le sud-est des États-Unis. Une grande partie de son travail porte sur la minéralisation des nutriments et l’amélioration de la synchronisation des nutriments afin d’augmenter l’efficacité de leur utilisation et de réduire les pertes dans l’environnement. De plus, ses recherches intègrent l’utilisation d’engrais à efficacité améliorée, des applications d’agriculture de précision, les réponses physiologiques des cultures à la fertilité, ainsi que l’utilisation de cultures de couverture pour améliorer la santé des sols. Bien que son principal domaine d’intérêt soit la fertilité des cultures, son programme reste réactif aux besoins critiques de l’industrie. Cela nécessite des recherches sur des sujets essentiels qui affectent les systèmes de culture existants et nouveaux dans la région, tels que la gestion des maladies, l’évaluation des génotypes, l’agronomie de base, le suivi de la phénologie à des fins de modélisation et les applications de l’agriculture de précision."
-  },
-  {
-    "objectID": "collab/kss.html",
-    "href": "collab/kss.html",
-    "title": "KS Subramanianj, Ph.D.",
-    "section": "",
-    "text": "Un nanotechnologue agricole bien connu qui a dirigé plusieurs projets en nanotechnologie et qui a développé 15 technologies, dont la préservation des fruits, des intrants agricoles enrichis par les nanotechnologies, des logiciels de diagnostic des carences nutritionnelles dans les cultures, des nano-engrais, des nanofibres pour la distribution de multiples intrants et un capteur d’azote pour le suivi de la santé des plantes. Il a publié plus de 200 articles, détient 2 brevets, a reçu 15 distinctions et possède un indice H de 37. Il est également impliqué dans plusieurs organisations de politiques réputées telles que le DBT, le DST, l’ICAR, le NASF et le FCO."
-  },
-  {
-    "objectID": "careers.html",
-    "href": "careers.html",
-    "title": "Offres d’emploi",
-    "section": "",
-    "text": "Offres d’emploi\n\nNous recherchons un.e Scientifique de donées pour rejoindre notre équipe. Pour une description détaillée du poste, veuillez vous référer au guichet-emplois."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "À propos",
-    "section": "",
-    "text": "Chez l’avenir durable, notre mission est d’autonomiser les agriculteurs et les entreprises agricoles avec des solutions innovantes et basées sur les données qui améliorent la productivité, la résilience et la rentabilité. Nous nous engageons à promouvoir des pratiques agricoles durables qui non seulement assurent la sécurité alimentaire, mais contribuent également à la conservation de l’environnement et au bien-être des communautés.\n\n\n\nNotre équipe est composée d’agronomes expérimentés, de scientifiques agricoles, d’analystes de données et d’experts en technologie qui apportent une richesse de connaissances et d’expérience. Unis par une passion commune pour l’agriculture durable, nous travaillons en collaboration pour offrir des solutions personnalisées et efficaces à nos clients. Notre approche multidisciplinaire garantit que nous abordons chaque aspect de vos besoins agricoles avec précision et expertise.\n\n\n\n\nDurabilité : Nous nous engageons à promouvoir des pratiques agricoles qui sont respectueuses de l’environnement, économiquement viables et socialement responsables.\nInnovation : Nous utilisons des technologies de pointe et les avancées scientifiques pour fournir des solutions avant-gardistes qui favorisent le succès agricole.\nIntégrité : Nous menons nos affaires avec les normes les plus élevées d’éthique, de transparence et d’honnêteté, garantissant la confiance et la fiabilité dans toutes nos interactions.\nCollaboration : Nous croyons en la puissance du travail d’équipe et des partenariats, travaillant en étroite collaboration avec nos clients et parties prenantes pour atteindre des objectifs communs.\nExcellence : Nous visons l’excellence dans tout ce que nous faisons, de nos services et solutions à notre support client, garantissant des résultats de la plus haute qualité pour nos clients."
-  },
-  {
-    "objectID": "about.html#notre-mission",
-    "href": "about.html#notre-mission",
-    "title": "À propos",
-    "section": "",
-    "text": "Chez l’avenir durable, notre mission est d’autonomiser les agriculteurs et les entreprises agricoles avec des solutions innovantes et basées sur les données qui améliorent la productivité, la résilience et la rentabilité. Nous nous engageons à promouvoir des pratiques agricoles durables qui non seulement assurent la sécurité alimentaire, mais contribuent également à la conservation de l’environnement et au bien-être des communautés."
-  },
-  {
-    "objectID": "about.html#notre-équipe",
-    "href": "about.html#notre-équipe",
-    "title": "À propos",
-    "section": "",
-    "text": "Notre équipe est composée d’agronomes expérimentés, de scientifiques agricoles, d’analystes de données et d’experts en technologie qui apportent une richesse de connaissances et d’expérience. Unis par une passion commune pour l’agriculture durable, nous travaillons en collaboration pour offrir des solutions personnalisées et efficaces à nos clients. Notre approche multidisciplinaire garantit que nous abordons chaque aspect de vos besoins agricoles avec précision et expertise."
-  },
-  {
-    "objectID": "about.html#nos-valeurs",
-    "href": "about.html#nos-valeurs",
-    "title": "À propos",
-    "section": "",
-    "text": "Durabilité : Nous nous engageons à promouvoir des pratiques agricoles qui sont respectueuses de l’environnement, économiquement viables et socialement responsables.\nInnovation : Nous utilisons des technologies de pointe et les avancées scientifiques pour fournir des solutions avant-gardistes qui favorisent le succès agricole.\nIntégrité : Nous menons nos affaires avec les normes les plus élevées d’éthique, de transparence et d’honnêteté, garantissant la confiance et la fiabilité dans toutes nos interactions.\nCollaboration : Nous croyons en la puissance du travail d’équipe et des partenariats, travaillant en étroite collaboration avec nos clients et parties prenantes pour atteindre des objectifs communs.\nExcellence : Nous visons l’excellence dans tout ce que nous faisons, de nos services et solutions à notre support client, garantissant des résultats de la plus haute qualité pour nos clients."
+    "text": "Nanda Kumar Maharjan possède six ans d’expérience dans le secteur du développement, démontrant des rôles de leadership dans la mise en œuvre de projets de subsistance dans les districts d’Udayapur, Salyan, Gorkha, Rasuwa et Surkhet au Népal. Il a acquis une vaste expérience dans la conception, la mise en œuvre et le suivi de projets de développement visant à améliorer les moyens de subsistance des communautés, tout en travaillant avec WOREC Nepal en tant qu’Agent de Subsistance et Coordinateur de Subsistance avec CARDSN, Nuwakot. Il a également travaillé en tant que consultant pour l’Association des Producteurs de Café du Népal, où il a développé des outils d’enquête pour le profilage des cultivateurs de café, évalué l’impact du changement climatique sur les producteurs de café, et analysé l’infrastructure des centres de collecte et de transformation du café. Il a également travaillé dans la surveillance des systèmes alimentaires et des marchés des produits agricoles en coordination avec l’Institut International de Recherche sur les Politiques Alimentaires (IFPRI)."
   },
   {
     "objectID": "choose.html",
@@ -280,11 +238,46 @@
     "text": "La surveillance continue des cultures est essentielle pour maintenir la santé des cultures et assurer une croissance optimale. L’imagerie à haute résolution permet de surveiller en temps réel les conditions des cultures, détectant rapidement des problèmes tels que les carences en nutriments, le stress hydrique et les épidémies de maladies. Cette intervention rapide aide à maintenir une haute qualité des cultures et à maximiser les rendements."
   },
   {
-    "objectID": "collab/nanda.html",
-    "href": "collab/nanda.html",
-    "title": "Nanda Kumar Maharjan, M.Sc.",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "À propos",
     "section": "",
-    "text": "Nanda Kumar Maharjan possède six ans d’expérience dans le secteur du développement, démontrant des rôles de leadership dans la mise en œuvre de projets de subsistance dans les districts d’Udayapur, Salyan, Gorkha, Rasuwa et Surkhet au Népal. Il a acquis une vaste expérience dans la conception, la mise en œuvre et le suivi de projets de développement visant à améliorer les moyens de subsistance des communautés, tout en travaillant avec WOREC Nepal en tant qu’Agent de Subsistance et Coordinateur de Subsistance avec CARDSN, Nuwakot. Il a également travaillé en tant que consultant pour l’Association des Producteurs de Café du Népal, où il a développé des outils d’enquête pour le profilage des cultivateurs de café, évalué l’impact du changement climatique sur les producteurs de café, et analysé l’infrastructure des centres de collecte et de transformation du café. Il a également travaillé dans la surveillance des systèmes alimentaires et des marchés des produits agricoles en coordination avec l’Institut International de Recherche sur les Politiques Alimentaires (IFPRI)."
+    "text": "Chez l’avenir durable, notre mission est d’autonomiser les agriculteurs et les entreprises agricoles avec des solutions innovantes et basées sur les données qui améliorent la productivité, la résilience et la rentabilité. Nous nous engageons à promouvoir des pratiques agricoles durables qui non seulement assurent la sécurité alimentaire, mais contribuent également à la conservation de l’environnement et au bien-être des communautés.\n\n\n\nNotre équipe est composée d’agronomes expérimentés, de scientifiques agricoles, d’analystes de données et d’experts en technologie qui apportent une richesse de connaissances et d’expérience. Unis par une passion commune pour l’agriculture durable, nous travaillons en collaboration pour offrir des solutions personnalisées et efficaces à nos clients. Notre approche multidisciplinaire garantit que nous abordons chaque aspect de vos besoins agricoles avec précision et expertise.\n\n\n\n\nDurabilité : Nous nous engageons à promouvoir des pratiques agricoles qui sont respectueuses de l’environnement, économiquement viables et socialement responsables.\nInnovation : Nous utilisons des technologies de pointe et les avancées scientifiques pour fournir des solutions avant-gardistes qui favorisent le succès agricole.\nIntégrité : Nous menons nos affaires avec les normes les plus élevées d’éthique, de transparence et d’honnêteté, garantissant la confiance et la fiabilité dans toutes nos interactions.\nCollaboration : Nous croyons en la puissance du travail d’équipe et des partenariats, travaillant en étroite collaboration avec nos clients et parties prenantes pour atteindre des objectifs communs.\nExcellence : Nous visons l’excellence dans tout ce que nous faisons, de nos services et solutions à notre support client, garantissant des résultats de la plus haute qualité pour nos clients."
+  },
+  {
+    "objectID": "about.html#notre-mission",
+    "href": "about.html#notre-mission",
+    "title": "À propos",
+    "section": "",
+    "text": "Chez l’avenir durable, notre mission est d’autonomiser les agriculteurs et les entreprises agricoles avec des solutions innovantes et basées sur les données qui améliorent la productivité, la résilience et la rentabilité. Nous nous engageons à promouvoir des pratiques agricoles durables qui non seulement assurent la sécurité alimentaire, mais contribuent également à la conservation de l’environnement et au bien-être des communautés."
+  },
+  {
+    "objectID": "about.html#notre-équipe",
+    "href": "about.html#notre-équipe",
+    "title": "À propos",
+    "section": "",
+    "text": "Notre équipe est composée d’agronomes expérimentés, de scientifiques agricoles, d’analystes de données et d’experts en technologie qui apportent une richesse de connaissances et d’expérience. Unis par une passion commune pour l’agriculture durable, nous travaillons en collaboration pour offrir des solutions personnalisées et efficaces à nos clients. Notre approche multidisciplinaire garantit que nous abordons chaque aspect de vos besoins agricoles avec précision et expertise."
+  },
+  {
+    "objectID": "about.html#nos-valeurs",
+    "href": "about.html#nos-valeurs",
+    "title": "À propos",
+    "section": "",
+    "text": "Durabilité : Nous nous engageons à promouvoir des pratiques agricoles qui sont respectueuses de l’environnement, économiquement viables et socialement responsables.\nInnovation : Nous utilisons des technologies de pointe et les avancées scientifiques pour fournir des solutions avant-gardistes qui favorisent le succès agricole.\nIntégrité : Nous menons nos affaires avec les normes les plus élevées d’éthique, de transparence et d’honnêteté, garantissant la confiance et la fiabilité dans toutes nos interactions.\nCollaboration : Nous croyons en la puissance du travail d’équipe et des partenariats, travaillant en étroite collaboration avec nos clients et parties prenantes pour atteindre des objectifs communs.\nExcellence : Nous visons l’excellence dans tout ce que nous faisons, de nos services et solutions à notre support client, garantissant des résultats de la plus haute qualité pour nos clients."
+  },
+  {
+    "objectID": "careers.html",
+    "href": "careers.html",
+    "title": "Offres d’emploi",
+    "section": "",
+    "text": "Offres d’emploi\n\nNous recherchons un.e Scientifique de donées pour rejoindre notre équipe. Pour une description détaillée du poste, veuillez vous référer au guichet-emplois."
+  },
+  {
+    "objectID": "collab/kss.html",
+    "href": "collab/kss.html",
+    "title": "KS Subramanianj, Ph.D.",
+    "section": "",
+    "text": "Un nanotechnologue agricole bien connu qui a dirigé plusieurs projets en nanotechnologie et qui a développé 15 technologies, dont la préservation des fruits, des intrants agricoles enrichis par les nanotechnologies, des logiciels de diagnostic des carences nutritionnelles dans les cultures, des nano-engrais, des nanofibres pour la distribution de multiples intrants et un capteur d’azote pour le suivi de la santé des plantes. Il a publié plus de 200 articles, détient 2 brevets, a reçu 15 distinctions et possède un indice H de 37. Il est également impliqué dans plusieurs organisations de politiques réputées telles que le DBT, le DST, l’ICAR, le NASF et le FCO."
   },
   {
     "objectID": "collab/prakash.html",
