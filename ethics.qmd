@@ -92,13 +92,13 @@ Provide mechanisms for anonymous reporting.
 
 # Code d'éthique d'Avenir Durable
 
-Chez Sustainable Future, nous nous engageons à mener nos activités avec intégrité, transparence et en conformité avec les lois canadiennes. Ce code d'éthique décrit les principes qui guident nos actions pour promouvoir des pratiques durables, la responsabilité environnementale et un comportement éthique.
+Chez Avenir Durable, nous nous engageons à mener nos activités avec intégrité, transparence et en conformité avec les lois canadiennes. Ce code d'éthique décrit les principes qui guident nos actions pour promouvoir des pratiques durables, la responsabilité environnementale et un comportement éthique.
 
 ## 1. Conformité aux lois et règlements
 Nous respectons toutes les lois fédérales, provinciales et municipales applicables, y compris celles relatives aux normes environnementales, aux pratiques de travail, aux droits de la personne et aux opérations commerciales au Canada. Les employés et partenaires doivent être conscients des règlements pertinents et s'assurer que leurs actions reflètent les exigences légales.
 
 ## 2. Responsabilité environnementale
-Sustainable Future s'engage à minimiser son impact sur l'environnement. Nous privilégions la durabilité dans tous les aspects de notre activité, de l'utilisation des ressources à la gestion des déchets. Nous respectons les lois environnementales du Canada, notamment la Loi canadienne sur la protection de l'environnement (LCPE), et cherchons à dépasser les normes en adoptant des stratégies environnementales proactives.
+Avenir Durable s'engage à minimiser son impact sur l'environnement. Nous privilégions la durabilité dans tous les aspects de notre activité, de l'utilisation des ressources à la gestion des déchets. Nous respectons les lois environnementales du Canada, notamment la Loi canadienne sur la protection de l'environnement (LCPE), et cherchons à dépasser les normes en adoptant des stratégies environnementales proactives.
 
 Principes clés :
 Promouvoir l'efficacité énergétique et réduire les émissions.
@@ -122,7 +122,7 @@ Créer un environnement de travail respectueux et exempt de harcèlement.
 Encourager le dialogue ouvert et le respect mutuel entre les employés.
 
 ## 5. Santé et sécurité
-Sustainable Future s'engage à maintenir un environnement de travail sain et sûr pour tous les employés. Nous respectons la Loi sur la santé et la sécurité au travail (LSST) ainsi que les autres règlements canadiens pertinents, en veillant à ce que les normes de sécurité soient intégrées dans nos opérations quotidiennes.
+Avenir Durable s'engage à maintenir un environnement de travail sain et sûr pour tous les employés. Nous respectons la Loi sur la santé et la sécurité au travail (LSST) ainsi que les autres règlements canadiens pertinents, en veillant à ce que les normes de sécurité soient intégrées dans nos opérations quotidiennes.
 
 Principes clés :
 Identifier, gérer et atténuer les risques sur le lieu de travail.
@@ -138,7 +138,7 @@ Encourager le bénévolat et la participation aux activités communautaires.
 Collaborer avec des organisations partageant les mêmes valeurs pour promouvoir des objectifs environnementaux et sociaux.
 
 ## 7. Lutte contre la corruption et les pots-de-vin
-Sustainable Future adopte une politique de tolérance zéro envers la corruption et les pots-de-vin. Nous respectons la Loi sur la corruption d'agents publics étrangers (LCAPE) et toutes les lois canadiennes contre la corruption. Les employés ne doivent ni offrir, ni accepter, ni faciliter de pots-de-vin, y compris sous la forme de cadeaux ou de paiements illicites.
+Avenir Durable adopte une politique de tolérance zéro envers la corruption et les pots-de-vin. Nous respectons la Loi sur la corruption d'agents publics étrangers (LCAPE) et toutes les lois canadiennes contre la corruption. Les employés ne doivent ni offrir, ni accepter, ni faciliter de pots-de-vin, y compris sous la forme de cadeaux ou de paiements illicites.
 
 Principes clés :
 Éviter toute activité pouvant être perçue comme corrompue ou contraire à l'éthique.
@@ -162,7 +162,7 @@ Utiliser les données des clients et des employés de manière responsable et l�
 Assurer la conformité avec les lois sur la protection des données en tout temps.
 
 ## 10. Signalement des violations
-Sustainable Future encourage les employés à signaler toute violation de ce Code d'éthique ou des exigences légales. Les signalements peuvent être anonymes, et aucun employé ne fera l'objet de représailles pour avoir exprimé des préoccupations de bonne foi.
+Avenir Durable encourage les employés à signaler toute violation de ce Code d'éthique ou des exigences légales. Les signalements peuvent être anonymes, et aucun employé ne fera l'objet de représailles pour avoir exprimé des préoccupations de bonne foi.
 
 Principes clés :
 Encourager la déclaration ouverte des préoccupations éthiques ou des violations légales.

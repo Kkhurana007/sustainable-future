@@ -13,12 +13,6 @@ We'd love to hear from you! Whether you have a question about our services, feed
 **Email:** [info@sustainable-future.ca](mailto:info@sustainable-future.ca)
 
 
-**Address:**  
-Sustainable Future   
-63 5e Avenue,
-Pincourt, Québec, J7W 5K8 
-Canada
-
 ## Contact Form
 
 For your convenience, you can also fill out the form below, and we will get back to you as soon as possible.
@@ -33,11 +27,7 @@ Nous serions ravis de vous entendre! Que vous ayez une question sur nos services
 ## Nous contacter
 **Courriel:** [info@sustainable-future.ca](mailto:info@sustainable-future.ca)
 
-**Adresse:**
-Sustainable Future<br> 
-63 5e Avenue,
-Pincourt, Québec, J7W 5K8
-Canada
+
 
 ## Formulaire de contact
 Pour votre commodité, vous pouvez également remplir le formulaire ci-dessous, et nous vous répondrons dès que possible.
@@ -68,9 +58,11 @@ Visitez notre bureau à l'emplacement ci-dessous:
 :::
 
 
+<div style="position: relative; width: 600px; height: 800px;">
+    <iframe src="https://www.google.com/maps/d/viewer?mid=1QlS1S7Vy2VHJBeSlaaYA_xqp1oKaMng&hl=en&femb=1&ll=46.44047024095807%2C-98.46908135000001&z=5" width="600" height="800" style="position: absolute; z-index: 1;"></iframe>
+    <div style="position: absolute; top: 10px; left: 10px; width: 100px; height: 20px; background-color: white; z-index: 2;"></div>
+</div>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2810.172629930164!2d-74.000159!3d45.380884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc9491c5c7202ad%3A0xa3c4d6ca35db8519!2sSustainable%20Future!5e0!3m2!1sen!2sus!4v1691252542801!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0">
-</iframe>
 
 
 
